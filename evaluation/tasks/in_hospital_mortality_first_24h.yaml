@@ -1,0 +1,43 @@
+# In-hospital mortality from the first 24 hours of an admission, for evaluation E3
+# (docs/evaluation.md). Built like MEDS-DEV's mortality/in_icu/first_24h, with the hospital
+# admission in place of the ICU admission: the input is everything up to 24 hours after admission;
+# admissions that end (discharge or death) within 48 hours, or that see another admission start
+# in that time, are excluded; the label is death before discharge.
+metadata:
+  description: In-hospital mortality, predicted 24 hours after hospital admission.
+  supported_datasets:
+    - MIMIC-IV
+
+predicates:
+  hospital_admission:
+    code: ???
+  hospital_discharge:
+    code: ???
+  death:
+    code: { regex: "MEDS_DEATH.*" }
+  discharge_or_death:
+    expr: or(hospital_discharge, death)
+
+trigger: hospital_admission
+
+windows:
+  input:
+    start: null
+    end: trigger + 24h
+    start_inclusive: True
+    end_inclusive: True
+    index_timestamp: end
+  gap:
+    start: trigger
+    end: start + 48h
+    start_inclusive: False
+    end_inclusive: True
+    has:
+      hospital_admission: (None, 0)
+      discharge_or_death: (None, 0)
+  target:
+    start: gap.end
+    end: start -> discharge_or_death
+    start_inclusive: False
+    end_inclusive: True
+    label: death

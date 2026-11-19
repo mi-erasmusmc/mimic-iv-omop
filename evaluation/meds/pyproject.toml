@@ -1,0 +1,26 @@
+[project]
+name = "mimic-omop-meds"
+version = "0.1.0"
+description = "Evaluation E3: labels with ACES via MEDS-DEV, features (own, and MEDS-Tab as a reference), LightGBM, XGBoost and L1 logistic regression with Cyclops, pinned; kept apart from mimic-eval because they need Polars 1.x"
+requires-python = ">=3.12"
+dependencies = [
+    "meds==0.4.1",
+    "es-aces==0.7.3",
+    "meds-tab",
+    "meds-dev",
+    "ohdsi-cyclops",
+    "lightgbm>=4.6",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+# MEDS-DEV task definitions and MIMIC-IV predicates, main of 2026-10-29
+meds-dev = { git = "https://github.com/Medical-Event-Data-Standard/MEDS-DEV", rev = "37f7fd2163e532db7d7157d14202256721ed91fd" }
+# MEDS-Tab main of 2026-10-22: 0.2.0 plus the fix for issue #168 (value aggregations were all
+# zero, so models saw code counts only)
+meds-tab = { git = "https://github.com/mmcdermott/MEDS_Tabular_AutoML", rev = "586de94531f9896691344c6ef124f0c385536998" }
+# Cyclops' Python bindings (develop of 2026-10-30): L1 logistic regression on MEDS-Tab's features.
+# The third E3 run used a later development build (ebb89849, not yet upstream); see README.md
+ohdsi-cyclops = { git = "https://github.com/OHDSI/Cyclops", rev = "de024ff6e768104a98d46c6489ad0a3c0772e9c7", subdirectory = "python" }

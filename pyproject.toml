@@ -1,0 +1,44 @@
+[project]
+name = "mimic-omop"
+version = "0.1.0"
+description = "MIMIC-IV to OMOP CDM 5.5 ETL written with Polars, producing parquet"
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+requires-python = ">=3.12"
+dependencies = [
+    "polars>=2.1",
+]
+
+[project.scripts]
+mimic-omop = "mimic_omop.cli:main"
+
+[project.optional-dependencies]
+duckdb = [
+    "duckdb>=1.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "hypothesis>=6",
+    "ruff>=0.8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["demo: end-to-end tests on the MIMIC-IV demo (run `mimic-omop fetch-demo` and `mimic-omop fetch-cvb` first)"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+# test fixtures are written as aligned tables of rows
+"tests/*" = ["E501"]

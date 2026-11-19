@@ -1,0 +1,42 @@
+[project]
+name = "mimic-omop-eval"
+version = "0.1.0"
+description = "Evaluation of the MIMIC-IV to OMOP CDM ETL: the same analyses on the source and on the CDM"
+requires-python = ">=3.12"
+dependencies = [
+    "polars>=2.1",
+    "duckdb>=1.4",
+    # E2b's source side maps MIMIC's local codes with the ETL's resolved CVB mappings
+    "mimic-omop",
+]
+
+[tool.uv.sources]
+mimic-omop = { path = "..", editable = true }
+
+[project.scripts]
+mimic-eval = "mimic_eval.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "ruff>=0.8",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mimic_eval"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]

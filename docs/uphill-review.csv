@@ -1,0 +1,1173 @@
+source_code_set,source_code,label,target_concept_id,target_name,target_domain,target_class,rows
+mimiciv_icu.d_items.label,224650,Ectopy Type 1,21490871,Type of arrhythmia on EKG,Measurement,Clinical Observation,7049295
+mimiciv_icu.d_items.label,223987,RLL Lung Sounds,21494997,Breath sounds by Auscultation,Measurement,Clinical Observation,1968069
+mimiciv_icu.d_items.label,223989,LLL Lung Sounds,4199296,Respiratory sounds,Observation,Observable Entity,1961154
+mimiciv_icu.d_items.label,223986,RUL Lung Sounds,21494997,Breath sounds by Auscultation,Measurement,Clinical Observation,1934534
+mimiciv_icu.d_items.label,223988,LUL Lung Sounds,4199296,Respiratory sounds,Observation,Observable Entity,1931508
+mimiciv_icu.d_items.label,225054,Anti Embolic Device Status,439388,Device status,Observation,Clinical Finding,1772642
+mimiciv_icu.chartevents.itemid,223907,Pupil Size Right,4237865,Size of pupil,Measurement,Observable Entity,1696488
+mimiciv_icu.chartevents.itemid,224733,Pupil Size Left,4237865,Size of pupil,Measurement,Observable Entity,1694148
+mimiciv_icu.d_items.label,224015,Urine Source,45773156,Specimen source,Observation,Observable Entity,1557242
+mimiciv_icu.d_items.label,223783,Pain Location,4227393,Pain observable,Observation,Observable Entity,1510783
+mimiciv_icu.d_items.label,228412,Strength R Arm,21495000,Muscle strength,Measurement,Clinical Observation,1204647
+mimiciv_icu.d_items.label,228409,Strength L Arm,21495000,Muscle strength,Measurement,Clinical Observation,1203764
+mimiciv_icu.d_items.label,228411,Strength R Leg,21495000,Muscle strength,Measurement,Clinical Observation,1202425
+mimiciv_icu.d_items.label,228410,Strength L Leg,21495000,Muscle strength,Measurement,Clinical Observation,1201010
+mimiciv_icu.d_items.label,224771,RLE Temp,21493955,Temperature of Extremity,Measurement,Clinical Observation,1102282
+mimiciv_icu.d_items.label,224773,LLE Temp,21493955,Temperature of Extremity,Measurement,Clinical Observation,1093603
+mimiciv_icu.d_items.label,224767,RUE Temp,21493955,Temperature of Extremity,Measurement,Clinical Observation,1088353
+mimiciv_icu.d_items.label,224769,LUE Temp,21493955,Temperature of Extremity,Measurement,Clinical Observation,1084359
+mimiciv_icu.d_items.label,223979,RLE Color,4087619,Color of extremity,Observation,Observable Entity,1081670
+mimiciv_icu.d_items.label,223983,LLE Color,4087619,Color of extremity,Observation,Observable Entity,1073673
+mimiciv_icu.d_items.label,223976,RUE Color,4087619,Color of extremity,Observation,Observable Entity,1070246
+mimiciv_icu.d_items.label,223982,LUE Color,4087619,Color of extremity,Observation,Observable Entity,1066398
+mimiciv_icu.d_items.label,224000,Nares R,3018605,Physical findings of Nostril,Measurement,Clinical Observation,1034215
+mimiciv_icu.d_items.label,224879,Nares L,3018605,Physical findings of Nostril,Measurement,Clinical Observation,1014827
+mimiciv_icu.d_items.label,223782,Pain Type,21494995,Pain assessment [Interpretation],Observation,Clinical Observation,974475
+mimiciv_icu.d_items.label,223951,Capillary Refill R,3045676,Capillary refill [Time],Measurement,Clinical Observation,954818
+mimiciv_icu.d_items.label,224308,Capillary Refill L,3045676,Capillary refill [Time],Measurement,Clinical Observation,937333
+mimiciv_icu.d_items.label,223936,Radial Pulse R,44809032,Radial pulse rate,Measurement,Observable Entity,789271
+mimiciv_icu.d_items.label,223948,Radial Pulse L,4277123,Radial pulse,Measurement,Observable Entity,776414
+mimiciv_icu.inputevents.itemid,225943,Solution,4092647,Fluid intake,Measurement,Observable Entity,699492
+mimiciv_icu.chartevents.itemid,224409,Pain Level Response,4087472,Response to pain,Observation,Observable Entity,664970
+mimiciv_icu.d_items.label,224281,Multi Lumen Site Appear,45766147,Appearance,Observation,Observable Entity,615940
+mimiciv_icu.d_items.label,224289,Arterial line Site Appear,45766147,Appearance,Observation,Observable Entity,605717
+mimiciv_icu.d_items.label,224291,Arterial line Waveform Appear,4027142,Intra-arterial waveform,Measurement,Observable Entity,576943
+mimiciv_icu.d_items.label,225625,Calcium non-ionized,4216722,Calcium measurement,Measurement,Procedure,542906
+mimiciv_icu.d_items.label,226814,Known difficult intubation,36660691,Difficult intubation,Observation,Clinical Observation,472159
+mimiciv_icu.d_items.label,228013,20 G Phlebitis Scale,40483855,Visual infusion phlebitis scale,Measurement,Staging / Scales,464060
+mimiciv_icu.d_items.label,223916,Response to Stimuli (Type),4086846,Response to stimulus,Observation,Observable Entity,446815
+mimiciv_icu.d_items.label,223918,RL Strength/Movement,21495000,Muscle strength,Measurement,Clinical Observation,409225
+mimiciv_icu.d_items.label,224283,Multi Lumen Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,403870
+mimiciv_icu.d_items.label,229314,Ventilator Mode (Hamilton),3004921,Ventilation mode Ventilator,Measurement,Clinical Observation,391952
+mimiciv_icu.d_items.label,228416,Corneal Reflex Right (228416),4011079,Corneal reflex,Observation,Observable Entity,367108
+mimiciv_icu.d_items.label,228415,Corneal Reflex Left (228415),4011079,Corneal reflex,Observation,Observable Entity,364369
+mimiciv_icu.d_items.label,228394,Orientation to Person,4232896,"Ability to identify person, place, and time",Observation,Observable Entity,351733
+mimiciv_icu.d_items.label,228395,Orientation to Place,4232896,"Ability to identify person, place, and time",Observation,Observable Entity,343642
+mimiciv_icu.d_items.label,224188,PICC Line Site Appear,45766147,Appearance,Observation,Observable Entity,342063
+mimiciv_icu.d_items.label,228396,Orientation to Time,4232896,"Ability to identify person, place, and time",Observation,Observable Entity,338489
+mimiciv_icu.d_items.label,229703,CPOT-Pain Management,4083171,Pain management,Procedure,Procedure,336267
+mimiciv_icu.d_items.label,224226,Impaired Skin Wound Base #1,43055002,Appearance of Wound base,Measurement,Clinical Observation,335502
+mimiciv_icu.d_items.label,224639,Daily Weight,4141416,Weight monitoring,Observation,Procedure,311627
+mimiciv_icu.d_items.label,229696,CPOT-Body Movements (CPOTb),722048,Critical Care Pain Observation Tool (CPOT): Body movements score,Measurement,Staging / Scales,255454
+mimiciv_icu.d_items.label,229691,CPOT-Muscle Tension (CPOTb),722042,Critical Care Pain Observation Tool (CPOT),Measurement,Staging / Scales,254573
+mimiciv_icu.d_items.label,229695,CPOT-Vocalization (CPOTb),722060,Critical Care Pain Observation Tool (CPOT): Vocalization score,Measurement,Staging / Scales,254560
+mimiciv_icu.d_items.label,224561,Impaired Skin Type #1,760568,Skin alteration type,Observation,Observable Entity,200432
+mimiciv_hosp.d_labitems.itemid,50812,Intubated,4042746,Blood gas measurement,Measurement,Procedure,187329
+mimiciv_icu.d_items.label,229660,RCexp (Measured Time Constant),4353622,Expiratory time,Measurement,Observable Entity,186746
+mimiciv_icu.d_items.label,224958,Impaired Skin Wound Base #2,43055002,Appearance of Wound base,Measurement,Clinical Observation,184718
+mimiciv_icu.d_items.label,224092,Range of Motion Location,4264818,Range of joint movement,Measurement,Observable Entity,159313
+mimiciv_icu.inputevents.itemid,225975,Heparin Sodium (Prophylaxis),35884360,Heparin Sodium,Drug,Ingredient,157876
+mimiciv_icu.d_items.label,228648,Home TF,4222605,Tube feeding diet,Observation,Clinical Finding,140145
+mimiciv_icu.d_items.label,223967,Angio Site # 1,3022666,Physical findings of Vessels,Measurement,Clinical Observation,136919
+mimiciv_icu.d_items.label,223970,Angio Dressing # 1,4044710,Dressing,Observation,Observable Entity,130856
+mimiciv_icu.d_items.label,224730,Corneal Reflex Right (224730),4011079,Corneal reflex,Observation,Observable Entity,130791
+mimiciv_icu.d_items.label,228334,CAM-ICU Altered LOC,4232897,Neurological status: consciousness,Observation,Observable Entity,129056
+mimiciv_icu.inputevents.itemid,221668,Midazolam (Versed),708298,midazolam,Drug,Ingredient,126814
+mimiciv_icu.d_items.label,224731,Corneal Reflex Left (224731),4011079,Corneal reflex,Observation,Observable Entity,125659
+mimiciv_icu.inputevents.itemid,221833,Hydromorphone (Dilaudid),1126658,hydromorphone,Drug,Ingredient,125424
+mimiciv_icu.outputevents.itemid,227510,TF Residual,21491185,Fluid output enteral tube [Volume] Measured,Measurement,Clinical Observation,120458
+mimiciv_icu.d_items.label,224944,Impaired Skin Type #2,760568,Skin alteration type,Observation,Observable Entity,115853
+mimiciv_icu.d_items.label,224959,Impaired Skin Wound Base #3,43055002,Appearance of Wound base,Measurement,Clinical Observation,107971
+mimiciv_icu.d_items.label,223924,RLE Sensation,3016946,Physical findings sensation,Measurement,Clinical Observation,102527
+mimiciv_icu.d_items.label,224762,LLE Sensation,3016946,Physical findings sensation,Measurement,Clinical Observation,100284
+mimiciv_icu.d_items.label,223955,Temporary Pacemaker Type,1989451,Pacemaker type,Measurement,Clinical Observation,99740
+mimiciv_icu.d_items.label,224106,Cooling Device,37110035,Device status,Observation,Observable Entity,99431
+mimiciv_icu.d_items.label,223956,Temporary Pacemaker Mode,1989388,Pacemaker mode,Measurement,Clinical Observation,96562
+mimiciv_icu.inputevents.itemid,225944,Sterile Water (225944),19010309,water,Drug,Ingredient,95048
+mimiciv_icu.d_items.label,225078,Social work consult,4259483,Social work/counseling surveillance,Observation,Procedure,91277
+mimiciv_icu.d_items.label,224751,Temporary Pacemaker Rate,1989527,Pacemaker rate,Measurement,Clinical Observation,89943
+mimiciv_icu.d_items.label,225124,Unintentional weight loss >10 lbs.,40491502,Unintentional weight loss,Condition,Clinical Finding,89474
+mimiciv_icu.d_items.label,223962,Temporary Pacemaker Wires Venticular,1988205,Temporary pacemaker Wire status,Measurement,Clinical Observation,87380
+mimiciv_icu.d_items.label,229699,CPOT-Facial Expression (CPOTa),722044,Critical Care Pain Observation Tool (CPOT): Facial expression score,Measurement,Staging / Scales,86011
+mimiciv_icu.d_items.label,229697,CPOT-Body Movements (CPOTa),722048,Critical Care Pain Observation Tool (CPOT): Body movements score,Measurement,Staging / Scales,85741
+mimiciv_icu.d_items.label,229694,CPOT-Vocalization (CPOTa),722060,Critical Care Pain Observation Tool (CPOT): Vocalization score,Measurement,Staging / Scales,85290
+mimiciv_icu.d_items.label,229692,CPOT-Muscle Tension (CPOTa),722042,Critical Care Pain Observation Tool (CPOT),Measurement,Staging / Scales,84987
+mimiciv_icu.d_items.label,224839,Temporary Pacemaker Wires Atrial,1988205,Temporary pacemaker Wire status,Measurement,Clinical Observation,84031
+mimiciv_icu.d_items.label,225052,Cooling Device Status,37110035,Device status,Observation,Observable Entity,82599
+mimiciv_icu.d_items.label,225076,Emotional / physical / sexual harm by partner or close relation,439237,Assault,Observation,Event,81964
+mimiciv_icu.inputevents.itemid,227536,KCl (CRRT),19049105,potassium chloride,Drug,Ingredient,72419
+mimiciv_icu.d_items.label,224945,Impaired Skin Type #3,760568,Skin alteration type,Observation,Observable Entity,71327
+mimiciv_icu.d_items.label,224740,RSBI Deferred,4168192,Procedure not done,Observation,Context-dependent,70396
+mimiciv_icu.d_items.label,228009,16 G Phlebitis Scale,40483855,Visual infusion phlebitis scale,Measurement,Staging / Scales,68060
+mimiciv_icu.d_items.label,224960,Impaired Skin Wound Base #4,43055002,Appearance of Wound base,Measurement,Clinical Observation,65992
+mimiciv_icu.inputevents.itemid,225910,Pantoprazole (Protonix),948078,pantoprazole,Drug,Ingredient,65518
+mimiciv_hosp.microbiologyevents.test_itemid,90188,"NEISSERIA GONORRHOEAE (GC), NUCLEIC ACID PROBE, WITH AMPLIFICATION",44811868,Neisseria gonorrhoeae nucleic acid detection assay,Measurement,Procedure,65250
+mimiciv_icu.inputevents.itemid,225907,Famotidine (Pepcid),953076,famotidine,Drug,Ingredient,62942
+mimiciv_icu.d_items.label,224297,Cordis/Introducer Site Appear,45766147,Appearance,Observation,Observable Entity,62564
+mimiciv_icu.inputevents.itemid,229630,Phenylephrine (50/250),1135766,phenylephrine,Drug,Ingredient,61013
+mimiciv_hosp.microbiologyevents.test_itemid,90268,FLUID CULTURE,4293873,"Fluid microscopy, culture and sensitivities",Measurement,Procedure,58118
+mimiciv_icu.inputevents.itemid,227525,Calcium Gluconate (CRRT),19037038,calcium gluconate,Drug,Ingredient,47378
+mimiciv_icu.d_items.label,225813,Baseline pain level,4234651,Pain level,Observation,Observable Entity,44757
+mimiciv_icu.chartevents.itemid,227287,O2 Flow (additional cannula),3005629,Inhaled oxygen flow rate,Measurement,Clinical Observation,44464
+mimiciv_icu.d_items.label,224946,Impaired Skin Type #4,760568,Skin alteration type,Observation,Observable Entity,44316
+mimiciv_icu.d_items.label,224390,Temporary Atrial Sens,1989128,Pacemaker Atrial sensitivity setting,Measurement,Clinical Observation,44281
+mimiciv_icu.d_items.label,226130,ICP Line Site Appear,45766147,Appearance,Observation,Observable Entity,43548
+mimiciv_icu.d_items.label,224311,BAEDP,3012888,Diastolic blood pressure,Measurement,Clinical Observation,43297
+mimiciv_icu.d_items.label,224322,IABP Mean,21490852,Invasive Mean blood pressure,Measurement,Clinical Observation,43281
+mimiciv_icu.d_items.label,224652,Unassisted Systole,4008099,Systole,Measurement,Observable Entity,42773
+mimiciv_icu.d_items.label,224654,PAEDP,3012888,Diastolic blood pressure,Measurement,Clinical Observation,42723
+mimiciv_icu.d_items.label,223810,Paroxysmal Sweats,4264813,Sweating observable,Observation,Observable Entity,42704
+mimiciv_icu.inputevents.itemid,227529,ACD-A Citrate (1000ml),44120634,Citric Acid / Glucose / sodium citrate Injectable Solution,Drug,Clinical Drug Form,42375
+mimiciv_icu.inputevents.itemid,221385,Lorazepam (Ativan),791967,lorazepam,Drug,Ingredient,42268
+mimiciv_icu.d_items.label,223814,Auditory Disturbance,4238783,Ear / auditory observable,Observation,Observable Entity,42037
+mimiciv_icu.d_items.label,224835,Temporary Ventricular Capture,44791688,Electrical capture by temporary transvenous pacing,Procedure,Procedure,41914
+mimiciv_icu.d_items.label,226133,ICP Line Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,41213
+mimiciv_icu.d_items.label,224866,Temporary Atrial Capture,44791688,Electrical capture by temporary transvenous pacing,Procedure,Procedure,41076
+mimiciv_icu.d_items.label,225237,16 Gauge Site Appear,45766147,Appearance,Observation,Observable Entity,39499
+mimiciv_icu.d_items.label,224961,Impaired Skin Wound Base #5,43055002,Appearance of Wound base,Measurement,Clinical Observation,38818
+mimiciv_icu.d_items.label,224101,Chest PT R/L,4238738,Physical therapy procedure,Procedure,Procedure,38612
+mimiciv_hosp.microbiologyevents.test_itemid,90046,WOUND CULTURE,4296651,"Wound microscopy, culture and sensitivities",Measurement,Procedure,38349
+mimiciv_icu.d_items.label,224717,SBT Successfully Completed,4308797,Trial of spontaneous breathing,Procedure,Procedure,35695
+mimiciv_icu.d_items.label,223958,Temporary Venticular Sens Threshold mV,1989306,Pacemaker Ventricular sensitivity threshold,Measurement,Clinical Observation,34976
+mimiciv_icu.d_items.label,224753,Temporary Atrial Sens Setting mV,1989128,Pacemaker Atrial sensitivity setting,Measurement,Clinical Observation,34174
+mimiciv_icu.d_items.label,223971,Angio Site # 2,3022666,Physical findings of Vessels,Measurement,Clinical Observation,34032
+mimiciv_icu.d_items.label,223973,Angio Dressing # 2,4044710,Dressing,Observation,Observable Entity,32267
+mimiciv_icu.d_items.label,224752,Temporary Atrial Sens Threshold mV,1988892,Pacemaker Atrial sensitivity threshold,Measurement,Clinical Observation,30827
+mimiciv_icu.d_items.label,223938,Ulnar Pulse R,4241475,Ulnar pulse,Measurement,Observable Entity,30820
+mimiciv_icu.d_items.label,224413,TOF Response,4134854,Train-of-four monitoring,Observation,Procedure,30246
+mimiciv_icu.d_items.label,224947,Impaired Skin Type #5,760568,Skin alteration type,Observation,Observable Entity,27675
+mimiciv_icu.d_items.label,225357,PA Catheter Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,27152
+mimiciv_icu.d_items.label,229280,FiO2 (ECMO),42869590,Oxygen/Gas total [Pure volume fraction] Inhaled gas,Measurement,Clinical Observation,26636
+mimiciv_icu.d_items.label,223949,Ulnar Pulse L,4241475,Ulnar pulse,Measurement,Observable Entity,26244
+mimiciv_hosp.microbiologyevents.test_itemid,90203,Aerobic Bottle Gram Stain,37392885,Gram stain microscopy,Measurement,Observable Entity,26138
+mimiciv_hosp.prescriptions.drug,Maalox/Diphenhydramine/Lidocaine,Maalox/Diphenhydramine/Lidocaine,985247,aluminum hydroxide,Drug,Ingredient,25005
+mimiciv_hosp.prescriptions.drug,Maalox/Diphenhydramine/Lidocaine,Maalox/Diphenhydramine/Lidocaine,989878,lidocaine,Drug,Ingredient,25005
+mimiciv_hosp.prescriptions.drug,Maalox/Diphenhydramine/Lidocaine,Maalox/Diphenhydramine/Lidocaine,992956,magnesium hydroxide,Drug,Ingredient,25005
+mimiciv_hosp.prescriptions.drug,Maalox/Diphenhydramine/Lidocaine,Maalox/Diphenhydramine/Lidocaine,1129625,diphenhydramine,Drug,Ingredient,25005
+mimiciv_icu.d_items.label,224962,Impaired Skin Wound Base #6,43055002,Appearance of Wound base,Measurement,Clinical Observation,23807
+mimiciv_icu.inputevents.itemid,226364,OR Crystalloid Intake,4090200,Parenteral fluid input,Measurement,Observable Entity,23616
+mimiciv_icu.d_items.label,224833,SBT Deferred,4168192,Procedure not done,Observation,Context-dependent,23285
+mimiciv_icu.d_items.label,225230,20 Gauge Reason Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,23263
+mimiciv_hosp.microbiologyevents.test_itemid,90204,Anaerobic Bottle Gram Stain,37392885,Gram stain microscopy,Measurement,Observable Entity,22792
+mimiciv_icu.d_items.label,225347,Midline Site Appear,45766147,Appearance,Observation,Observable Entity,22078
+mimiciv_icu.d_items.label,229704,CP-Pain Management,4083171,Pain management,Procedure,Procedure,20837
+mimiciv_icu.d_items.label,225379,Indwelling Port (PortaCath) Site Appear,45766147,Appearance,Observation,Observable Entity,20670
+mimiciv_icu.datetimeevents.itemid,225345,Midline Dressing Change,4078224,Change of dressing,Procedure,Procedure,20002
+mimiciv_icu.procedureevents.itemid,228129,Family updated by RN,4073442,Family details / household composition,Observation,Observable Entity,19735
+mimiciv_icu.chartevents.itemid,227543,CO (Arterial),4221102,Cardiac output,Measurement,Observable Entity,19704
+mimiciv_icu.inputevents.itemid,228316,Levetiracetam (Keppra),711584,levetiracetam,Drug,Ingredient,19568
+mimiciv_icu.d_items.label,225225,CCO PAC Site Appear,45766147,Appearance,Observation,Observable Entity,18003
+mimiciv_icu.d_items.label,223940,Femoral Pulse R,4282626,Femoral pulse,Measurement,Observable Entity,17588
+mimiciv_icu.d_items.label,225227,CCO PAC Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,17517
+mimiciv_icu.d_items.label,225737,Arterial Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,17476
+mimiciv_icu.d_items.label,228137,CHG Bath,44801344,Medicated bath,Procedure,Procedure,17404
+mimiciv_hosp.microbiologyevents.test_itemid,90175,HIV-1 Viral Load/Ultrasensitive,4201046,HIV viral load,Measurement,Procedure,17280
+mimiciv_icu.d_items.label,223942,Graft/Flap Pulse,4224504,Pulse,Measurement,Observable Entity,17129
+mimiciv_icu.inputevents.itemid,226361,Pre-Admission/Non-ICU Intake,4103707,Measuring intake,Measurement,Procedure,17008
+mimiciv_icu.d_items.label,224948,Impaired Skin Type #6,760568,Skin alteration type,Observation,Observable Entity,16929
+mimiciv_icu.d_items.label,228152,Aortic Pressure Signal - Systolic,21490674,Aorta Systolic blood pressure,Measurement,Clinical Observation,16863
+mimiciv_icu.d_items.label,228151,Aortic Pressure Signal - Diastolic,21490672,Aorta Diastolic blood pressure,Measurement,Clinical Observation,16855
+mimiciv_icu.d_items.label,223939,Brachial Pulse R,4226234,Brachial pulse rate,Measurement,Observable Entity,16690
+mimiciv_icu.d_items.label,227805,SvO2 SQI,40484911,Mixed venous oxygen saturation,Measurement,Observable Entity,16498
+mimiciv_icu.d_items.label,228229,PAR-Activity,37204082,Post Anesthetic Recovery score,Measurement,Staging / Scales,16487
+mimiciv_icu.d_items.label,228234,PAR-Respiration,37204082,Post Anesthetic Recovery score,Measurement,Staging / Scales,16470
+mimiciv_icu.d_items.label,228231,PAR-Consciousness,37204082,Post Anesthetic Recovery score,Measurement,Staging / Scales,16453
+mimiciv_icu.d_items.label,228230,PAR-Circulation,37204082,Post Anesthetic Recovery score,Measurement,Staging / Scales,16415
+mimiciv_icu.d_items.label,223944,Brachial Pulse L,4226234,Brachial pulse rate,Measurement,Observable Entity,16208
+mimiciv_icu.d_items.label,224963,Impaired Skin Wound Base #7,43055002,Appearance of Wound base,Measurement,Clinical Observation,15316
+mimiciv_icu.inputevents.itemid,221824,Haloperidol (Haldol),766529,haloperidol,Drug,Ingredient,14988
+mimiciv_icu.d_items.label,224844,Permanent Pacemaker Mode,1989388,Pacemaker mode,Measurement,Clinical Observation,14585
+mimiciv_icu.d_items.label,225233,18 Gauge Reason Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,14513
+mimiciv_icu.d_items.label,227439,Indwelling Port (PortaCath) placed in outside facility,1340204,History of event,Observation,Context-dependent,14239
+mimiciv_icu.d_items.label,229705,CP-Pain Assessment Method,4021323,Pain assessment,Procedure,Procedure,14021
+mimiciv_icu.d_items.label,223945,Femoral Pulse L,4282626,Femoral pulse,Measurement,Observable Entity,13916
+mimiciv_icu.d_items.label,224746,Transpulmonary Pressure (Exp. Hold),36032223,Transpulmonary pressure gradient,Measurement,Clinical Observation,13461
+mimiciv_icu.d_items.label,224747,Transpulmonary Pressure (Insp. Hold),36032223,Transpulmonary pressure gradient,Measurement,Clinical Observation,13255
+mimiciv_icu.inputevents.itemid,229632,Phenylephrine (200/250),1135766,phenylephrine,Drug,Ingredient,12840
+mimiciv_hosp.microbiologyevents.test_itemid,90130,R/O Beta Strep Group A,4047151,Beta-hemolytic Streptococcus culture,Measurement,Procedure,12338
+mimiciv_icu.d_items.label,223941,Popliteal Pulse R,4253535,Popliteal pulse,Measurement,Observable Entity,12208
+mimiciv_hosp.prescriptions.drug,Prismasate (B32 K2),Prismasate (B32 K2),4178905,Hemodialysis fluid,Device,Pharma/Biol Product,12115
+mimiciv_icu.chartevents.itemid,227582,BiPap O2 Flow,3005629,Inhaled oxygen flow rate,Measurement,Clinical Observation,12085
+mimiciv_hosp.microbiologyevents.test_itemid,90097,R/O GROUP B BETA STREP,4047151,Beta-hemolytic Streptococcus culture,Measurement,Procedure,12052
+mimiciv_icu.outputevents.itemid,227511,TF Residual Output,21491185,Fluid output enteral tube [Volume] Measured,Measurement,Clinical Observation,12001
+mimiciv_hosp.d_labitems.itemid,51956,CDT027 (51956),4264976,Measure of stool,Measurement,Observable Entity,11537
+mimiciv_icu.d_items.label,223946,Popliteal Pulse L,4253535,Popliteal pulse,Measurement,Observable Entity,10927
+mimiciv_icu.d_items.label,225339,IABP Site Appear,45766147,Appearance,Observation,Observable Entity,10853
+mimiciv_icu.procedureevents.itemid,228128,Family updated by MD,4073442,Family details / household composition,Observation,Observable Entity,10832
+mimiciv_icu.d_items.label,224949,Impaired Skin Type #7,760568,Skin alteration type,Observation,Observable Entity,10757
+mimiciv_icu.chartevents.itemid,228375,Stroke Volume Index (SVI NICOM),4172676,Stroke index,Measurement,Observable Entity,10653
+mimiciv_hosp.microbiologyevents.test_itemid,90214,Respiratory Viral Culture,4130349,Viral culture,Measurement,Procedure,10383
+mimiciv_icu.d_items.label,225767,Sheath Site Appear,45766147,Appearance,Observation,Observable Entity,10333
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92230,Y92230,44790745,Place of occurrence of injury is hospital environment,Observation,Clinical Finding,10290
+mimiciv_icu.d_items.label,225982,IABP Balloon Waveform,4269442,Waveform observable,Measurement,Observable Entity,9941
+mimiciv_icu.d_items.label,225986,IABP Arterial Waveform Source,4269442,Waveform observable,Measurement,Observable Entity,9831
+mimiciv_icu.d_items.label,225341,IABP Art. Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,9791
+mimiciv_icu.d_items.label,225722,Arterial Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,9784
+mimiciv_icu.chartevents.itemid,228374,Stroke Volume (SV NICOM),4231869,Stroke volume,Measurement,Observable Entity,9297
+mimiciv_icu.d_items.label,228233,PAR-Remain sedated,37204082,Post Anesthetic Recovery score,Measurement,Staging / Scales,9145
+mimiciv_icu.d_items.label,228444,BIS Index Range,4134573,Bispectral index,Measurement,Staging / Scales,9074
+mimiciv_hosp.prescriptions.drug,Yellow CADD Cassette,Yellow CADD Cassette,45757839,Infusion pump cassette,Device,Physical Object,8822
+mimiciv_icu.d_items.label,227461,Phenytoin (Dilantin),4141139,Phenytoin measurement,Measurement,Procedure,8819
+mimiciv_icu.d_items.label,225217,Trauma Line Site Appear,45766147,Appearance,Observation,Observable Entity,8465
+mimiciv_icu.d_items.label,224964,Impaired Skin Wound Base #8,43055002,Appearance of Wound base,Measurement,Clinical Observation,8409
+mimiciv_icu.d_items.label,227583,Autoset/CPAP,40762052,BIPAP AndOr CPAP setting Ventilator,Measurement,Clinical Observation,8393
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92239,Y92239,44790745,Place of occurrence of injury is hospital environment,Observation,Clinical Finding,8259
+mimiciv_icu.d_items.label,225729,Multi Lumen Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,8209
+mimiciv_icu.d_items.label,225744,Multi Lumen Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,8193
+mimiciv_icu.d_items.label,223797,Sensory Level,4224910,Sensory function status,Observation,Observable Entity,8121
+mimiciv_icu.d_items.label,225331,Tunneled (Hickman) Site Appear,45766147,Appearance,Observation,Observable Entity,8047
+mimiciv_icu.inputevents.itemid,228339,Amiodarone 600/500,1309944,amiodarone,Drug,Ingredient,8026
+mimiciv_icu.d_items.label,223953,Pericardial Drain Drainage,4144861,Drainage of pericardium,Procedure,Procedure,8019
+mimiciv_icu.d_items.label,224845,Permanent Pacemaker Rate,1989527,Pacemaker rate,Measurement,Clinical Observation,7993
+mimiciv_icu.datetimeevents.itemid,225765,Sheath Dressing Change,4078224,Change of dressing,Procedure,Procedure,7975
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92009,Y92009,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,7885
+mimiciv_icu.inputevents.itemid,225916,TPN w/ Lipids,37312129,Total parenteral nutrition agent,Device,Substance,7855
+mimiciv_icu.d_items.label,226846,Feeding Weight,4099154,Body weight,Measurement,Observable Entity,7713
+mimiciv_hosp.prescriptions.drug,Prismasate (B22 K4),Prismasate (B22 K4),4178905,Hemodialysis fluid,Device,Pharma/Biol Product,7603
+mimiciv_icu.datetimeevents.itemid,227722,AVA Dressing Change,4078224,Change of dressing,Procedure,Procedure,7597
+mimiciv_icu.d_items.label,229706,CP-Pain Assessment Method-Post,4021323,Pain assessment,Procedure,Procedure,7576
+mimiciv_icu.datetimeevents.itemid,225216,Trauma Line Dressing Change,4078224,Change of dressing,Procedure,Procedure,7522
+mimiciv_icu.outputevents.itemid,227489,GU Irrigant/Urine Volume Out,4090192,Fluid output,Measurement,Observable Entity,7201
+mimiciv_icu.outputevents.itemid,227488,GU Irrigant Volume In,4092500,Fluid intake volume,Measurement,Observable Entity,7199
+mimiciv_icu.d_items.label,223963,Temporary Pacemaker Wires Ground,1988205,Temporary pacemaker Wire status,Measurement,Clinical Observation,7189
+mimiciv_icu.d_items.label,226499,Hemodialysis Output,4209882,Measuring output,Measurement,Procedure,7073
+mimiciv_icu.d_items.label,224950,Impaired Skin Type #8,760568,Skin alteration type,Observation,Observable Entity,6872
+mimiciv_icu.inputevents.itemid,225911,Ranitidine (Prophylaxis),961047,ranitidine,Drug,Ingredient,6524
+mimiciv_hosp.microbiologyevents.test_itemid,90205,Fluid Culture in Bottles,4189544,Microbial culture,Measurement,Procedure,6378
+mimiciv_icu.d_items.label,228194,Peripheral Pulses (Tandem Heart),4183393,Peripheral pulse,Measurement,Observable Entity,6321
+mimiciv_icu.d_items.label,224121,22 Gauge Reason Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,6230
+mimiciv_icu.d_items.label,228346,OCAT - Teeth,3028171,Physical findings of Teeth and gum,Measurement,Clinical Observation,6230
+mimiciv_hosp.microbiologyevents.test_itemid,90144,TOXOPLASMA IgG ANTIBODY,4018587,Measurement of Toxoplasma species antibody,Measurement,Procedure,6225
+mimiciv_icu.d_items.label,225770,Sheath Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,5672
+mimiciv_icu.inputevents.itemid,229654,Amiodarone 450/250,46276342,amiodarone hydrochloride 1.8 MG/ML Injection,Drug,Clinical Drug,5438
+mimiciv_icu.chartevents.itemid,228177,CI (PiCCO),4208254,Cardiac index,Measurement,Observable Entity,5424
+mimiciv_icu.inputevents.itemid,225917,TPN without Lipids,37312129,Total parenteral nutrition agent,Device,Substance,5323
+mimiciv_icu.d_items.label,223966,Transcutaneous Pacer Placement,4087901,Cardiac pacing,Procedure,Procedure,5289
+mimiciv_icu.d_items.label,227730,AVA Waveform Appearance,4269442,Waveform observable,Measurement,Observable Entity,5263
+mimiciv_hosp.microbiologyevents.test_itemid,90121,CYCLOSPORA STAIN,4045483,Cyclospora identification,Measurement,Procedure,5225
+mimiciv_icu.d_items.label,225371,Pheresis Catheter Site Appear,45766147,Appearance,Observation,Observable Entity,4745
+mimiciv_hosp.prescriptions.drug,Multivitamins W/minerals Liquid,Multivitamins W/minerals Liquid,36878782,Multivitamin preparation,Drug,Ingredient,4618
+mimiciv_icu.d_items.label,225236,16 Gauge Reason Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,4576
+mimiciv_hosp.microbiologyevents.test_itemid,90106,MICROSPORIDIA STAIN,4007957,Microsporidia identification,Measurement,Procedure,4538
+mimiciv_icu.chartevents.itemid,228182,SVI (PiCCO),4172676,Stroke index,Measurement,Observable Entity,4243
+mimiciv_icu.inputevents.itemid,229640,Calcium Gluconate (Bolus),19037038,calcium gluconate,Drug,Ingredient,4223
+mimiciv_icu.d_items.label,225732,PICC Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,4212
+mimiciv_icu.d_items.label,229841,FiO2 (CH),42869590,Oxygen/Gas total [Pure volume fraction] Inhaled gas,Measurement,Clinical Observation,4201
+mimiciv_icu.d_items.label,227802,GI Guaiac QC,4018618,Gastrointestinal occult blood test,Measurement,Procedure,4076
+mimiciv_icu.inputevents.itemid,225947,Dextrose PN,1560524,glucose,Drug,Ingredient,4044
+mimiciv_hosp.microbiologyevents.test_itemid,90156,DIRECT INFLUENZA A ANTIGEN TEST,4044987,Influenza A virus antigen assay,Measurement,Procedure,3896
+mimiciv_hosp.microbiologyevents.test_itemid,90168,DIRECT INFLUENZA B ANTIGEN TEST,4044988,Influenza B virus antigen assay,Measurement,Procedure,3894
+mimiciv_icu.chartevents.itemid,228185,SVRI (PiCCO),4081061,Systemic vascular resistance index,Measurement,Observable Entity,3868
+mimiciv_icu.d_items.label,227604,Impaired Skin Odor #9,4265707,Odor of skin,Observation,Observable Entity,3190
+mimiciv_hosp.microbiologyevents.test_itemid,90164,"INTERPHASE FISH ANALYSIS, 100-300 CELLS",40765108,Chromosome analysis panel by FISH,Measurement,Lab Test,3007
+mimiciv_icu.d_items.label,228174,Impella Line Site Appear,45766147,Appearance,Observation,Observable Entity,2892
+mimiciv_icu.d_items.label,225387,Presep Catheter Site Appear,45766147,Appearance,Observation,Observable Entity,2828
+mimiciv_icu.d_items.label,229580,Line Placement at Bedside,4181966,Insertion of catheter into blood vessel,Procedure,Procedure,2781
+mimiciv_icu.procedureevents.itemid,225444,Pan Culture,4189544,Microbial culture,Measurement,Procedure,2753
+mimiciv_icu.inputevents.itemid,226363,Cath Lab Intake,4103707,Measuring intake,Measurement,Procedure,2714
+mimiciv_icu.inputevents.itemid,226375,PACU Crystalloid Intake,4090200,Parenteral fluid input,Measurement,Observable Entity,2707
+mimiciv_icu.d_items.label,227581,BiPap bpm (S/T -Back up),44817051,Biphasic positive airway pressure (BIPAP) activity Ventilator,Measurement,Clinical Observation,2627
+mimiciv_icu.d_items.label,225990,Pericardial Drain Flush,4144861,Drainage of pericardium,Procedure,Procedure,2579
+mimiciv_hosp.prescriptions.drug,Maalox/Lidocaine,Maalox/Lidocaine,985247,aluminum hydroxide,Drug,Ingredient,2556
+mimiciv_hosp.prescriptions.drug,Maalox/Lidocaine,Maalox/Lidocaine,989878,lidocaine,Drug,Ingredient,2556
+mimiciv_hosp.prescriptions.drug,Maalox/Lidocaine,Maalox/Lidocaine,992956,magnesium hydroxide,Drug,Ingredient,2556
+mimiciv_icu.d_items.label,228179,ELWI (PiCCO),3661655,Measurement of extravascular lung water,Measurement,Procedure,2467
+mimiciv_icu.d_items.label,225724,Cordis/Introducer Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,2458
+mimiciv_icu.d_items.label,225739,Cordis/Introducer Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,2375
+mimiciv_icu.d_items.label,226815,Airway problems,4231832,Airway event,Observation,Event,2318
+mimiciv_icu.d_items.label,227605,Impaired Skin Odor #10,4265707,Odor of skin,Observation,Observable Entity,2242
+mimiciv_icu.d_items.label,228176,CFI (PiCCO),4313573,Cardiac function,Measurement,Observable Entity,2167
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92238,Y92238,44790745,Place of occurrence of injury is hospital environment,Observation,Clinical Finding,2163
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92234,Y92234,44791199,Place of occurrence of injury is general practitioner surgery,Observation,Clinical Finding,2157
+mimiciv_icu.d_items.label,225388,Presep Catheter Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,2049
+mimiciv_hosp.prescriptions.drug,Blue CADD Cassette,Blue CADD Cassette,45757839,Infusion pump cassette,Device,Physical Object,1868
+mimiciv_icu.d_items.label,228449,Angio Site # 3,3022666,Physical findings of Vessels,Measurement,Clinical Observation,1821
+mimiciv_icu.d_items.label,228447,Angio Dressing # 3,4044710,Dressing,Observation,Observable Entity,1815
+mimiciv_hosp.microbiologyevents.test_itemid,90137,QUANTITATIVE RPR,4058393,Rapid plasma reagin test,Measurement,Procedure,1644
+mimiciv_icu.d_items.label,228377,SVI Change,4172676,Stroke index,Measurement,Observable Entity,1643
+mimiciv_hosp.d_labitems.itemid,51056,"Miscellaneous, Pleural",4056996,Pleural fluid examination,Measurement,Procedure,1610
+mimiciv_icu.d_items.label,228372,Leg Raise Result (NICOM),4154928,Straight leg raise test response,Observation,Observable Entity,1606
+mimiciv_icu.d_items.label,227652,Lochia Estimate,4265543,Lochia feature,Observation,Observable Entity,1584
+mimiciv_icu.d_items.label,229668,Pulmonary Artery Pressure Signal - Diastolic,3017188,Pulmonary artery Diastolic blood pressure,Measurement,Clinical Observation,1469
+mimiciv_icu.d_items.label,229669,Pulmonary Atrtery Pressure Signal - Systolic,3005606,Pulmonary artery Systolic blood pressure,Measurement,Clinical Observation,1468
+mimiciv_icu.d_items.label,225725,Dialysis Catheter Tip Cultured,4189544,Microbial culture,Measurement,Procedure,1365
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92410,Y92410,44790743,Place of occurrence of injury is highway environment,Observation,Clinical Finding,1359
+mimiciv_icu.d_items.label,229379,Swallow Eval,4225856,Swallowing status,Observation,Observable Entity,1350
+mimiciv_hosp.microbiologyevents.test_itemid,90226,RPR w/check for Prozone,3021461,Reagin Ab [Presence] in Serum by RPR,Measurement,Lab Test,1305
+mimiciv_icu.d_items.label,227649,Fundus Character,3025010,Physical findings of Uterus,Measurement,Clinical Observation,1291
+mimiciv_icu.d_items.label,227651,Lochia Character,4265543,Lochia feature,Observation,Observable Entity,1289
+mimiciv_hosp.prescriptions.drug,Profend,Profend,19130340,povidone-iodine 100 MG/ML Medicated Pad,Drug,Clinical Drug,1274
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92019,Y92019,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,1254
+mimiciv_icu.d_items.label,227815,Site Appearance - Adjunctive Pain Management,45766147,Appearance,Observation,Observable Entity,1240
+mimiciv_hosp.microbiologyevents.test_itemid,90159,POSTMORTEM CULTURE (90159),4189544,Microbial culture,Measurement,Procedure,1232
+mimiciv_icu.d_items.label,229771,Restlessness (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1178
+mimiciv_icu.d_items.label,229773,Sweating (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1174
+mimiciv_icu.d_items.label,229765,Anxiety/Irritability (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1173
+mimiciv_icu.d_items.label,229774,Tremor (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1169
+mimiciv_icu.d_items.label,229775,Yawning (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1169
+mimiciv_icu.d_items.label,229772,Runny Nose/Tearing (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1167
+mimiciv_icu.d_items.label,229768,Gooseflesh Skin (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1166
+mimiciv_icu.d_items.label,229767,GI Upset (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1160
+mimiciv_icu.d_items.label,229766,Bone/Joint Aches (COWS),42873108,Clinical opiate withdrawal scale,Measurement,Staging / Scales,1156
+mimiciv_icu.d_items.label,225730,PA Catheter Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,1143
+mimiciv_icu.inputevents.itemid,229574,Fiber Supplement (i.e. Banana Flakes),4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,1141
+mimiciv_icu.d_items.label,228302,CAM-ICU RASS LOC,4232897,Neurological status: consciousness,Observation,Observable Entity,1116
+mimiciv_icu.d_items.label,227650,Fundus Location (Breadth),3025010,Physical findings of Uterus,Measurement,Clinical Observation,1074
+mimiciv_icu.d_items.label,228293,IO Site Appearance,45766147,Appearance,Observation,Observable Entity,1071
+mimiciv_hosp.prescriptions.drug,Multiple Vitamins Liq.,Multiple Vitamins Liq.,36878782,Multivitamin preparation,Drug,Ingredient,1061
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92129,Y92129,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,1055
+mimiciv_icu.d_items.label,225738,CCO PAC Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,1047
+mimiciv_icu.d_items.label,229467,24 G Phlebitis Scale,40483855,Visual infusion phlebitis scale,Measurement,Staging / Scales,1037
+mimiciv_icu.d_items.label,225747,PICC Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,869
+mimiciv_icu.d_items.label,224166,Doppler BP,4326744,Blood pressure,Measurement,Observable Entity,841
+mimiciv_icu.d_items.label,228214,Tandem Heart Access Line Site Appear,45766147,Appearance,Observation,Observable Entity,781
+mimiciv_hosp.d_labitems.itemid,51038,"Miscellaneous, Body Fluid",4133843,Body fluid analysis,Measurement,Procedure,771
+mimiciv_icu.d_items.label,228226,Tandem Heart Return Cannula Site Appear,45766147,Appearance,Observation,Observable Entity,755
+mimiciv_hosp.microbiologyevents.test_itemid,90107,Respiratory Virus Identification,4044973,Virus identification,Measurement,Procedure,724
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92018,Y92018,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,711
+mimiciv_icu.d_items.label,224646,Orthostatic BPs sitting,3018586,Systolic blood pressure--sitting,Measurement,Clinical Observation,697
+mimiciv_icu.d_items.label,226094,Orthostatic BPd sitting,3034703,Diastolic blood pressure--sitting,Measurement,Clinical Observation,696
+mimiciv_icu.d_items.label,229380,Nursing Water Swallow Screening,4225856,Swallowing status,Observation,Observable Entity,675
+mimiciv_icu.d_items.label,225764,Sheath Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,646
+mimiciv_icu.chartevents.itemid,224645,Orthostatic BPs lying,3009395,Systolic blood pressure--supine,Measurement,Clinical Observation,644
+mimiciv_icu.chartevents.itemid,226092,Orthostatic BPd lying,3013940,Diastolic blood pressure--supine,Measurement,Clinical Observation,642
+mimiciv_hosp.microbiologyevents.test_itemid,90206,"Blood Culture, Post Mortem",4107893,Blood culture,Measurement,Procedure,639
+mimiciv_icu.chartevents.itemid,223765,Orthostatic HR sitting,40771525,Heart rate --sitting,Measurement,Clinical Observation,637
+mimiciv_icu.d_items.label,225395,Triple Introducer Site Appear,45766147,Appearance,Observation,Observable Entity,623
+mimiciv_icu.chartevents.itemid,223766,Orthostatic BPs standing,3035856,Systolic blood pressure--standing,Measurement,Clinical Observation,620
+mimiciv_icu.chartevents.itemid,226096,Orthostatic BPd standing,3019962,Diastolic blood pressure--standing,Measurement,Clinical Observation,618
+mimiciv_icu.d_items.label,225723,CCO PAC Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,611
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92008,Y92008,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,599
+mimiciv_icu.chartevents.itemid,223764,Orthostatic HR lying,40771524,Heart rate --supine,Measurement,Clinical Observation,599
+mimiciv_icu.d_items.label,225760,RIC Site Appear,45766147,Appearance,Observation,Observable Entity,583
+mimiciv_hosp.prescriptions.drug,0.9% Sodium Chl (Yellow CADD),0.9% Sodium Chl (Yellow CADD),45757839,Infusion pump cassette,Device,Physical Object,574
+mimiciv_icu.d_items.label,224647,Orthostatic HR standing,40771526,Heart rate --standing,Measurement,Clinical Observation,565
+mimiciv_icu.d_items.label,220194,Temporary AV interval,1988618,Pacemaker Atrioventricular interval,Measurement,Clinical Observation,514
+mimiciv_icu.d_items.label,226131,ICP Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,514
+mimiciv_hosp.d_labitems.itemid,51796,"Miscellaneous, CSF",4065798,Cerebrospinal fluid examination,Measurement,Procedure,510
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92099,Y92099,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,508
+mimiciv_icu.d_items.label,225961,Medication Added Units #1 (Peritoneal Dialysis),1988072,Medication added to peritoneal dialysis fluid,Measurement,Clinical Observation,484
+mimiciv_icu.d_items.label,229582,Portable CT scan,4300757,Computed tomography,Procedure,Procedure,483
+mimiciv_icu.d_items.label,225959,Medication Added Amount #1 (Peritoneal Dialysis),1988072,Medication added to peritoneal dialysis fluid,Measurement,Clinical Observation,469
+mimiciv_icu.d_items.label,225742,IABP Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,465
+mimiciv_icu.d_items.label,228379,TFCd0 (NICOM),4057002,Pleural fluid protein content measurement,Measurement,Procedure,464
+mimiciv_hosp.microbiologyevents.test_itemid,90179,POTASSIUM HYDROXIDE PREPARATION (HAIR/SKIN/NAILS),3012096,Microscopic observation [Identifier] in Specimen by KOH preparation,Measurement,Lab Test,462
+mimiciv_hosp.microbiologyevents.test_itemid,90180,O&P MACROSCOPIC EXAM - WORM,4005027,Macroscopic parasitic identification method,Measurement,Procedure,462
+mimiciv_hosp.prescriptions.drug,PreserVision AREDS,PreserVision AREDS,21037655,Multivitamin preparation Oral Capsule [PreserVision],Drug,Branded Drug Form,441
+mimiciv_icu.d_items.label,228380,Thoracic Fluid Content (TFC) (NICOM),4057002,Pleural fluid protein content measurement,Measurement,Procedure,441
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92039,Y92039,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,438
+mimiciv_icu.d_items.label,229835,Waveform Trough (VAD),4269442,Waveform observable,Measurement,Observable Entity,429
+mimiciv_icu.d_items.label,229834,Waveform Peak (VAD),4269442,Waveform observable,Measurement,Observable Entity,427
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92480,Y92480,44791197,Place of occurrence of injury is community environment,Observation,Clinical Finding,409
+mimiciv_icu.d_items.label,229549,Avalon Dressing Change,4078224,Change of dressing,Procedure,Procedure,403
+mimiciv_hosp.microbiologyevents.test_itemid,90227,"Sonication culture, prosthetic joint",4016945,Bacterial culture,Measurement,Procedure,393
+mimiciv_icu.d_items.label,228378,TFCd (NICOM),4057002,Pleural fluid protein content measurement,Measurement,Procedure,360
+mimiciv_icu.procedureevents.itemid,225447,Percutaneous Drain Insertion,44782942,Insertion of drain,Procedure,Procedure,358
+mimiciv_icu.d_items.label,225728,Midline Tip Cultured,4189544,Microbial culture,Measurement,Procedure,350
+mimiciv_hosp.microbiologyevents.test_itemid,90236,"Anaerobic culture, Prosthetic Joint Fluid",4036044,Anaerobic microbial culture,Measurement,Procedure,336
+mimiciv_icu.d_items.label,225397,Triple Introducer Waveform Appear,4269442,Waveform observable,Measurement,Observable Entity,326
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92038,Y92038,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,321
+mimiciv_icu.d_items.label,225239,14 Gauge Reason Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,319
+mimiciv_icu.d_items.label,226272,EF (CCO),4323433,Cardiac ejection fraction,Measurement,Observable Entity,307
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92199,Y92199,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,302
+mimiciv_icu.d_items.label,227725,AVA Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,299
+mimiciv_icu.d_items.label,227726,AVA Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,278
+mimiciv_hosp.prescriptions.drug,INV-GO-203-2c,INV-GO-203-2c,36852661,GO-203-2C,Drug,Ingredient,262
+mimiciv_hosp.microbiologyevents.test_itemid,90208,Myco-F Bottle Gram Stain,37392885,Gram stain microscopy,Measurement,Observable Entity,238
+mimiciv_hosp.prescriptions.drug,Sterile Diluent for Remodulin,Sterile Diluent for Remodulin,19010309,water,Drug,Ingredient,238
+mimiciv_icu.d_items.label,225735,Trauma Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,234
+mimiciv_hosp.prescriptions.drug,Prenatal Gummy,Prenatal Gummy,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,227
+mimiciv_icu.d_items.label,225750,Trauma Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,222
+mimiciv_hosp.prescriptions.drug,DiaResQ,DiaResQ,4190196,Nutritional supplement,Device,Substance,216
+mimiciv_icu.d_items.label,225768,Sheath Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,213
+mimiciv_hosp.prescriptions.drug,Sterile Diluent for Flolan,Sterile Diluent for Flolan,40729379,Epoprostenol Injectable Solution [Flolan],Drug,Branded Drug Form,211
+mimiciv_hosp.microbiologyevents.test_itemid,90140,QUANTITATIVE CRYPTOCOCCAL ANTIGEN,4008429,Cryptococcus species antigen assay,Measurement,Procedure,204
+mimiciv_icu.d_items.label,225743,Midline Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,197
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92538,Y92538,44790727,Place of occurrence of injury is clinic,Observation,Clinical Finding,194
+mimiciv_icu.d_items.label,229238,FiO2 Challenge,42869590,Oxygen/Gas total [Pure volume fraction] Inhaled gas,Measurement,Clinical Observation,192
+mimiciv_icu.d_items.label,229579,Transfer Intercampus by Ambulance,1340204,History of event,Observation,Context-dependent,188
+mimiciv_icu.d_items.label,229501,Small Bore Nasal Enteral Tube Placement,44784371,Insertion of feeding tube into small intestine,Procedure,Procedure,180
+mimiciv_hosp.microbiologyevents.test_itemid,90038,GENITAL CULTURE,4268449,"Genital microscopy, culture and sensitivities",Measurement,Procedure,178
+mimiciv_icu.d_items.label,227640,Medication Added Units #2 (Peritoneal Dialysis),1988072,Medication added to peritoneal dialysis fluid,Measurement,Clinical Observation,178
+mimiciv_icu.inputevents.itemid,226377,PACU PO Intake,4090199,Oral fluid input,Measurement,Observable Entity,174
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92122,Y92122,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,170
+mimiciv_icu.d_items.label,229239,FiO2 Challenge Result,42869590,Oxygen/Gas total [Pure volume fraction] Inhaled gas,Measurement,Clinical Observation,164
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92098,Y92098,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,162
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9239,Y9239,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,152
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92231,Y92231,44790745,Place of occurrence of injury is hospital environment,Observation,Clinical Finding,149
+mimiciv_icu.d_items.label,225726,Tunneled (Hickman) Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,147
+mimiciv_icu.d_items.label,228450,Angio Site # 4,3022666,Physical findings of Vessels,Measurement,Clinical Observation,147
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92488,Y92488,44791698,Place of occurrence of injury is non highway environment,Observation,Clinical Finding,141
+mimiciv_icu.d_items.label,227639,Medication Added Amount #2 (Peritoneal Dialysis),1988072,Medication added to peritoneal dialysis fluid,Measurement,Clinical Observation,141
+mimiciv_hosp.prescriptions.drug,INV-REGN1979,INV-REGN1979,36854629,ODRONEXTAMAB,Drug,Ingredient,140
+mimiciv_icu.d_items.label,225406,Transferred to Floor,21491511,Transferred to [Location],Observation,Clinical Observation,139
+mimiciv_icu.d_items.label,228448,Angio Dressing # 4,4044710,Dressing,Observation,Observable Entity,137
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9269,Y9269,44790747,Place of occurrence of injury is industrial environment,Observation,Clinical Finding,135
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92481,Y92481,44790762,Place of occurrence of injury is unknown environment,Observation,Clinical Finding,131
+mimiciv_hosp.microbiologyevents.test_itemid,90071,CHROMOSOME ANALYSIS-CVS,40766804,Karyotype [Identifier] in Chorionic villus sample Narrative,Measurement,Lab Test,125
+mimiciv_icu.datetimeevents.itemid,227542,ScvO2 (Presep) Calibrated,1616373,Oxygen saturation in Central venous blood,Measurement,Lab Test,123
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92414,Y92414,44791698,Place of occurrence of injury is non highway environment,Observation,Clinical Finding,120
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92512,Y92512,46286094,Place of occurrence of injury is trade or service environment,Observation,Clinical Finding,120
+mimiciv_icu.d_items.label,229545,EKOS Line Site Appear,45766147,Appearance,Observation,Observable Entity,119
+mimiciv_icu.d_items.label,229585,Surgical Procedure at Bedside,4301351,Surgical procedure,Procedure,Procedure,119
+mimiciv_hosp.prescriptions.drug,Prenatal Gummies,Prenatal Gummies,4190196,Nutritional supplement,Device,Substance,117
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92128,Y92128,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,113
+mimiciv_hosp.microbiologyevents.test_itemid,90182,STEM CELL - AEROBIC BOTTLE,37399191,Aerobic culture,Measurement,Observable Entity,109
+mimiciv_hosp.microbiologyevents.test_itemid,90184,STEM CELL - ANAEROBIC BOTTLE,37399248,Anaerobic culture,Measurement,Observable Entity,109
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9259,Y9259,46286094,Place of occurrence of injury is trade or service environment,Observation,Clinical Finding,105
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92531,Y92531,44790727,Place of occurrence of injury is clinic,Observation,Clinical Finding,100
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92121,Y92121,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,98
+mimiciv_icu.d_items.label,225759,RIC Reason Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,98
+mimiciv_hosp.prescriptions.drug,Prenatal Complete,Prenatal Complete,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,95
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92511,Y92511,35609179,Place of occurrence of injury is inside licensed premises,Observation,Clinical Finding,90
+mimiciv_icu.d_items.label,225748,Indwelling Port (PortaCath) Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,85
+mimiciv_hosp.microbiologyevents.test_itemid,90161,TRICHOMONAS SALINE PREP,4046604,Trichomonas vaginalis identification,Measurement,Procedure,81
+mimiciv_hosp.prescriptions.drug,INV-Deferoxamine,INV-Deferoxamine,35605631,deferoxamine Injection,Drug,Clinical Drug Form,76
+mimiciv_hosp.prescriptions.drug,CADD Cassette,CADD Cassette,45757839,Infusion pump cassette,Device,Physical Object,73
+mimiciv_hosp.microbiologyevents.test_itemid,90187,GENITAL CULTURE FOR TOXIC SHOCK,4268449,"Genital microscopy, culture and sensitivities",Measurement,Procedure,69
+mimiciv_hosp.microbiologyevents.test_itemid,90075,CHROMOSOME ANALYSIS-BLOOD,1002418,Chromosome analysis in Blood or Tissue by Microarray,Measurement,Lab Test,68
+mimiciv_hosp.microbiologyevents.test_itemid,90146,CHROMOSOME ANALYSIS-NEOPLASTIC BLOOD,1002418,Chromosome analysis in Blood or Tissue by Microarray,Measurement,Lab Test,64
+mimiciv_icu.d_items.label,225734,Presep Catheter Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,64
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92522,Y92522,35609501,Place of occurrence of injury is transport interchange,Observation,Clinical Finding,63
+mimiciv_hosp.microbiologyevents.test_itemid,90218,Carbapenemase Resistant Enterobacteriaceae Screen,4062636,Bacterial disease screening,Measurement,Procedure,63
+mimiciv_hosp.prescriptions.drug,HYDROmorphone/Bupivacaine/CloNIDine Intrathecal,HYDROmorphone/Bupivacaine/CloNIDine Intrathecal,732893,bupivacaine,Drug,Ingredient,63
+mimiciv_hosp.prescriptions.drug,HYDROmorphone/Bupivacaine/CloNIDine Intrathecal,HYDROmorphone/Bupivacaine/CloNIDine Intrathecal,1126658,hydromorphone,Drug,Ingredient,63
+mimiciv_hosp.prescriptions.drug,HYDROmorphone/Bupivacaine/CloNIDine Intrathecal,HYDROmorphone/Bupivacaine/CloNIDine Intrathecal,1398937,clonidine,Drug,Ingredient,63
+mimiciv_icu.inputevents.itemid,225174,Hetastarch (Hespan) 6%,19082792,hetastarch 60 MG/ML,Drug,Clinical Drug Comp,63
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92830,Y92830,46286019,Place of occurrence of injury is recreational area,Observation,Clinical Finding,60
+mimiciv_hosp.microbiologyevents.test_itemid,90043,POST MORTEM MYCOLOGY CULTURE,4165398,Mycology culture,Measurement,Procedure,60
+mimiciv_hosp.prescriptions.drug,Prena1 Chew,Prena1 Chew,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,58
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92214,Y92214,44790728,Place of occurrence of injury is educational establishment,Observation,Clinical Finding,54
+mimiciv_icu.d_items.label,228170,Impella Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,53
+mimiciv_icu.d_items.label,229474,24 Gauge Reason Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,53
+mimiciv_hosp.prescriptions.drug,PrismaSol BGK2/0,PrismaSol BGK2/0,4021071,Dialysis fluid,Device,Pharma/Biol Product,50
+mimiciv_icu.inputevents.itemid,227696,Fibersource HN (3/4),45324018,FIBERSOURCE HN LIQUID,Device,Device,50
+mimiciv_icu.d_items.label,225731,Pheresis Catheter Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,49
+mimiciv_hosp.prescriptions.drug,INV-Leronlimab,INV-Leronlimab,32994,leronlimab,Drug,Ingredient,48
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92828,Y92828,46286019,Place of occurrence of injury is recreational area,Observation,Clinical Finding,47
+mimiciv_hosp.prescriptions.drug,Aveeno Bath,Aveeno Bath,986261,colloidal oatmeal,Drug,Ingredient,47
+mimiciv_icu.chartevents.itemid,228189,CO-Tandem Heart Flow,4221102,Cardiac output,Measurement,Observable Entity,46
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92169,Y92169,35609182,Place of occurrence of injury is student accommodation,Observation,Clinical Finding,44
+mimiciv_hosp.prescriptions.drug,Diluent for REGN1979+0.9% NaCl,Diluent for REGN1979+0.9% NaCl,36854629,ODRONEXTAMAB,Drug,Ingredient,42
+mimiciv_icu.inputevents.itemid,227698,Fibersource HN (1/2),45324018,FIBERSOURCE HN LIQUID,Device,Device,42
+mimiciv_hosp.prescriptions.drug,Baclofen/Bupivicaine/Clonidine Intrathecal,Baclofen/Bupivicaine/Clonidine Intrathecal,715233,baclofen,Drug,Ingredient,41
+mimiciv_hosp.prescriptions.drug,Baclofen/Bupivicaine/Clonidine Intrathecal,Baclofen/Bupivicaine/Clonidine Intrathecal,732893,bupivacaine,Drug,Ingredient,41
+mimiciv_hosp.prescriptions.drug,Baclofen/Bupivicaine/Clonidine Intrathecal,Baclofen/Bupivicaine/Clonidine Intrathecal,1398937,clonidine,Drug,Ingredient,41
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92413,Y92413,44791698,Place of occurrence of injury is non highway environment,Observation,Clinical Finding,39
+mimiciv_hosp.microbiologyevents.test_itemid,90215,M. furfur Blood Culture,4107893,Blood culture,Measurement,Procedure,38
+mimiciv_icu.d_items.label,225746,Pheresis Catheter Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,37
+mimiciv_hosp.d_labitems.itemid,50845,"Miscellaneous, Ascites",40480857,Evaluation of peritoneal fluid,Measurement,Procedure,36
+mimiciv_hosp.prescriptions.drug,INV-Convalescent Plasma,INV-Convalescent Plasma,37161939,Convalescent plasma,Device,Pharma/Biol Product,36
+mimiciv_hosp.prescriptions.drug,Prenatal Multi,Prenatal Multi,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,36
+mimiciv_hosp.prescriptions.drug,CeraVe,CeraVe,42903796,ceramide 6 II,Drug,Ingredient,34
+mimiciv_hosp.prescriptions.drug,CeraVe,CeraVe,43012206,ceramide 3,Drug,Ingredient,34
+mimiciv_hosp.prescriptions.drug,CeraVe,CeraVe,43012553,ceramide 1,Drug,Ingredient,34
+mimiciv_hosp.prescriptions.drug,Influenza A (H1N1) Vaccine,Influenza A (H1N1) Vaccine,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,34
+mimiciv_hosp.microbiologyevents.test_itemid,90167,ISOLATE FOR MIC,4222885,Isolation technique,Procedure,Procedure,33
+mimiciv_hosp.prescriptions.drug,INV-ALKS 4230,INV-ALKS 4230,36854062,NEMVALEUKIN ALFA,Drug,Ingredient,33
+mimiciv_hosp.prescriptions.drug,Omega 3-6-9 Complex,Omega 3-6-9 Complex,19106973,omega-3 fatty acids,Drug,Ingredient,31
+mimiciv_hosp.prescriptions.drug,hypertonic nasal wash,hypertonic nasal wash,967823,sodium chloride,Drug,Ingredient,31
+mimiciv_hosp.prescriptions.drug,hypertonic nasal wash,hypertonic nasal wash,991710,"sodium phosphate, dibasic",Drug,Ingredient,31
+mimiciv_hosp.prescriptions.drug,hypertonic nasal wash,hypertonic nasal wash,19027362,potassium phosphate,Drug,Ingredient,31
+mimiciv_hosp.prescriptions.drug,prednisolone-moxiflo-nepafenac,prednisolone-moxiflo-nepafenac,909795,nepafenac,Drug,Ingredient,31
+mimiciv_hosp.prescriptions.drug,prednisolone-moxiflo-nepafenac,prednisolone-moxiflo-nepafenac,1550557,prednisolone,Drug,Ingredient,31
+mimiciv_hosp.prescriptions.drug,prednisolone-moxiflo-nepafenac,prednisolone-moxiflo-nepafenac,1716903,moxifloxacin,Drug,Ingredient,31
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92810,Y92810,35609544,Place of occurrence of injury is in private vehicle,Observation,Clinical Finding,30
+mimiciv_hosp.prescriptions.drug,VSL#3,VSL#3,1759196,Streptococcus thermophilus,Drug,Ingredient,30
+mimiciv_hosp.prescriptions.drug,VSL#3,VSL#3,36118942,Lactobacillus,Drug,Ingredient,30
+mimiciv_hosp.prescriptions.drug,VSL#3,VSL#3,36118947,Bifidobacterium,Drug,Ingredient,30
+mimiciv_hosp.prescriptions.drug,Centrum Silver,Centrum Silver,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,29
+mimiciv_hosp.prescriptions.drug,Omega-3 Fish Oil,Omega-3 Fish Oil,43189970,Omega-3 Fatty Acids Oral Capsule,Drug,Clinical Drug Form,28
+mimiciv_hosp.prescriptions.drug,D20W,D20W,589977,Glucose 200 MG/ML Injectable Solution,Drug,Clinical Drug,27
+mimiciv_hosp.prescriptions.drug,Prenatal One,Prenatal One,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,27
+mimiciv_icu.d_items.label,229558,Cardiac Assist Cannula Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,27
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92832,Y92832,46286019,Place of occurrence of injury is recreational area,Observation,Clinical Finding,26
+mimiciv_icu.d_items.label,225749,Presep Catheter Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,26
+mimiciv_icu.inputevents.itemid,227699,Fibersource HN (1/4),45197166,FIBERSOURCE HN LIQUID,Device,Device,26
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92143,Y92143,35609185,Place of occurrence of injury is prison,Observation,Clinical Finding,24
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9210,Y9210,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,23
+mimiciv_hosp.prescriptions.drug,Influenza Virus Vaccine *Latex Free*,Influenza Virus Vaccine *Latex Free*,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,23
+mimiciv_icu.d_items.label,226745,APACHE II Predecited Death Rate,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,23
+mimiciv_icu.inputevents.itemid,225994,Mighty Shake (Vanilla/Strawberry),4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,23
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9222,Y9222,44791197,Place of occurrence of injury is community environment,Observation,Clinical Finding,22
+mimiciv_hosp.microbiologyevents.test_itemid,90238,POST-MORTEM ACID-FAST CULTURE,4307445,Acid fast bacilli culture,Measurement,Procedure,22
+mimiciv_hosp.prescriptions.drug,Centravites 50 Plus,Centravites 50 Plus,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,22
+mimiciv_hosp.prescriptions.drug,INV-Opiranserin,INV-Opiranserin,36855707,OPIRANSERIN,Drug,Ingredient,22
+mimiciv_icu.d_items.label,224314,ABI Brachial BP R (Impella),44805247,Right ankle brachial pressure index,Measurement,Procedure,22
+mimiciv_icu.d_items.label,224318,ABI Ankle BP L (Impella),44805248,Left ankle brachial pressure index,Measurement,Procedure,22
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92014,Y92014,44791698,Place of occurrence of injury is non highway environment,Observation,Clinical Finding,20
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92322,Y92322,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,20
+mimiciv_hosp.prescriptions.drug,Probiotic Acidophilus,Probiotic Acidophilus,987153,Lactobacillus acidophilus,Drug,Ingredient,20
+mimiciv_icu.d_items.label,226738,AgeApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,20
+mimiciv_icu.d_items.label,226748,APACHEII-Renal failure,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,20
+mimiciv_icu.inputevents.itemid,225996,Mighty Shake (no sugar added),4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,20
+mimiciv_hosp.microbiologyevents.test_itemid,90090,POST-MORTEM VIRAL CULTURE (90090),4130349,Viral culture,Measurement,Procedure,19
+mimiciv_hosp.prescriptions.drug,Vitamins and Minerals,Vitamins and Minerals,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,19
+mimiciv_hosp.prescriptions.drug,copper glycinate (bulk),copper glycinate (bulk),43532998,cupric glycinate,Drug,Ingredient,19
+mimiciv_icu.d_items.label,225736,Triple Introducer Line Tip Cultured,4189544,Microbial culture,Measurement,Procedure,19
+mimiciv_icu.d_items.label,226744,APACHE II PDR - Adjusted,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226751,CreatinineApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226755,GcsApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226760,HCO3Score,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226761,HematocritApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226763,HrApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226765,MapApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226767,OxygenApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226768,PhApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226773,RrApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_icu.d_items.label,226779,WbcApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,19
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92814,Y92814,438301,Water transport accident,Observation,Event,18
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92818,Y92818,435713,Transport accident,Observation,Event,18
+mimiciv_hosp.microbiologyevents.test_itemid,90163,"INTERPHASE FISH ANALYSIS, 25-99 CELLS",40765108,Chromosome analysis panel by FISH,Measurement,Lab Test,18
+mimiciv_hosp.prescriptions.drug,PNV cmb#95-ferrous fumarate-FA,PNV cmb#95-ferrous fumarate-FA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,18
+mimiciv_hosp.prescriptions.drug,Vision Plus Lutein,Vision Plus Lutein,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,18
+mimiciv_icu.d_items.label,225954,Dialysis Access Type,42869805,Dialysis access,Observation,Survey,18
+mimiciv_icu.d_items.label,226739,AgeApacheIIValue,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,18
+mimiciv_icu.inputevents.itemid,225995,Mighty Shake (Chocolate),4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,18
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92163,Y92163,35609182,Place of occurrence of injury is student accommodation,Observation,Clinical Finding,17
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92524,Y92524,46286094,Place of occurrence of injury is trade or service environment,Observation,Clinical Finding,17
+mimiciv_hosp.prescriptions.drug,Ocuvite Adult 50 Plus,Ocuvite Adult 50 Plus,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,17
+mimiciv_hosp.prescriptions.drug,Prenatal with DHA & folic acid,Prenatal with DHA & folic acid,4190196,Nutritional supplement,Device,Substance,17
+mimiciv_hosp.prescriptions.drug,multivitamin with iron-mineral,multivitamin with iron-mineral,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,17
+mimiciv_icu.d_items.label,226780,WBCApacheIIValue,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,17
+mimiciv_icu.inputevents.itemid,227977,Boost Glucose Control (1/2),45187151,BOOST GLUCOSE CONTROL LIQUID,Device,Device,17
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92198,Y92198,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,16
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92821,Y92821,44791197,Place of occurrence of injury is community environment,Observation,Clinical Finding,16
+mimiciv_hosp.microbiologyevents.test_itemid,90171,"FISH ANALYSIS, 10-30 CELLS",40765108,Chromosome analysis panel by FISH,Measurement,Lab Test,16
+mimiciv_hosp.microbiologyevents.test_itemid,90239,POST-MORTEM DIRECT ACID-FAST STAIN,4015316,"Microbiologic smear with interpretation, acid fast stain method",Measurement,Procedure,16
+mimiciv_hosp.prescriptions.drug,Biotene Moisturizing Mouth,Biotene Moisturizing Mouth,45758338,Artificial saliva,Device,Physical Object,16
+mimiciv_hosp.prescriptions.drug,Multi Complete with Iron,Multi Complete with Iron,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,16
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92049,Y92049,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,15
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92320,Y92320,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,15
+mimiciv_hosp.prescriptions.drug,Gummi Bear Multivitamin,Gummi Bear Multivitamin,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,15
+mimiciv_hosp.prescriptions.drug,INV-Alisertib,INV-Alisertib,36861654,ALISERTIB,Drug,Ingredient,15
+mimiciv_hosp.prescriptions.drug,INV-OTL-38,INV-OTL-38,702393,pafolacianine,Drug,Ingredient,15
+mimiciv_hosp.prescriptions.drug,omega-3s-dha-epa-fish oil,omega-3s-dha-epa-fish oil,43189970,Omega-3 Fatty Acids Oral Capsule,Drug,Clinical Drug Form,15
+mimiciv_icu.d_items.label,226749,ChpApacheIIScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,15
+mimiciv_icu.d_items.label,226753,DswfApacheScore,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,15
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92193,Y92193,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,14
+mimiciv_hosp.prescriptions.drug,INV-Ganaxolone,INV-Ganaxolone,780003,ganaxolone,Drug,Ingredient,14
+mimiciv_hosp.prescriptions.drug,INV-Odronextamab,INV-Odronextamab,36854629,ODRONEXTAMAB,Drug,Ingredient,14
+mimiciv_hosp.prescriptions.drug,Prenatal 19,Prenatal 19,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,14
+mimiciv_hosp.prescriptions.drug,Vit eyes,Vit eyes,36878782,Multivitamin preparation,Drug,Ingredient,14
+mimiciv_icu.d_items.label,225428,Blakemore / Minnesota Tube D/C,4190104,Procedure discontinued,Observation,Context-dependent,14
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9285,Y9285,440896,Railway accident,Observation,Event,13
+mimiciv_hosp.prescriptions.drug,Flintstones Gummies,Flintstones Gummies,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,13
+mimiciv_hosp.prescriptions.drug,Prenatal Formula-DHA,Prenatal Formula-DHA,4190196,Nutritional supplement,Device,Substance,13
+mimiciv_hosp.prescriptions.drug,Probiotic Blend,Probiotic Blend,987153,Lactobacillus acidophilus,Drug,Ingredient,13
+mimiciv_hosp.prescriptions.drug,Probiotic Blend,Probiotic Blend,19006764,Bifidobacterium bifidum,Drug,Ingredient,13
+mimiciv_hosp.prescriptions.drug,Probiotic Blend,Probiotic Blend,40242573,Bifidobacterium longum,Drug,Ingredient,13
+mimiciv_hosp.prescriptions.drug,Probiotic Blend,Probiotic Blend,45775207,Lacticaseibacillus casei,Drug,Ingredient,13
+mimiciv_hosp.prescriptions.drug,Womens One Daily,Womens One Daily,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,13
+mimiciv_icu.d_items.label,226993,ApacheIV_LOS,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,13
+mimiciv_icu.d_items.label,228206,Tandem Heart Access Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,13
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92219,Y92219,44790728,Place of occurrence of injury is educational establishment,Observation,Clinical Finding,12
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92415,Y92415,44790743,Place of occurrence of injury is highway environment,Observation,Clinical Finding,12
+mimiciv_hosp.prescriptions.drug,Gummies Girls Multivitamins,Gummies Girls Multivitamins,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,12
+mimiciv_hosp.prescriptions.drug,Neilmed Sinus Rinse Complete,Neilmed Sinus Rinse Complete,939506,sodium bicarbonate,Drug,Ingredient,12
+mimiciv_hosp.prescriptions.drug,Neilmed Sinus Rinse Complete,Neilmed Sinus Rinse Complete,967823,sodium chloride,Drug,Ingredient,12
+mimiciv_hosp.prescriptions.drug,fish oil-dha-epa,fish oil-dha-epa,35200165,fish oil (containing omega-3 acids),Drug,Ingredient,12
+mimiciv_hosp.prescriptions.drug,whey protein isolate,whey protein isolate,37498110,whey protein hydrolysate,Drug,Ingredient,12
+mimiciv_icu.d_items.label,225751,Triple Introducer Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,12
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92232,Y92232,44790745,Place of occurrence of injury is hospital environment,Observation,Clinical Finding,11
+mimiciv_hosp.prescriptions.drug,INV-BL-8040,INV-BL-8040,746571,motixafortide Injection,Drug,Clinical Drug Form,11
+mimiciv_hosp.prescriptions.drug,Icaps MV,Icaps MV,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,11
+mimiciv_hosp.prescriptions.drug,Multi-Vitamin HP/Minerals,Multi-Vitamin HP/Minerals,36878782,Multivitamin preparation,Drug,Ingredient,11
+mimiciv_hosp.prescriptions.drug,One-Per-Day Omega-3,One-Per-Day Omega-3,19106973,omega-3 fatty acids,Drug,Ingredient,11
+mimiciv_hosp.prescriptions.drug,hydrocortisone/lidocaine suppository,hydrocortisone/lidocaine suppository,975125,hydrocortisone,Drug,Ingredient,11
+mimiciv_hosp.prescriptions.drug,hydrocortisone/lidocaine suppository,hydrocortisone/lidocaine suppository,989878,lidocaine,Drug,Ingredient,11
+mimiciv_icu.inputevents.itemid,227978,Boost Glucose Control (3/4),45187151,BOOST GLUCOSE CONTROL LIQUID,Device,Device,11
+mimiciv_hosp.prescriptions.drug,Centrum Kids,Centrum Kids,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,10
+mimiciv_hosp.prescriptions.drug,INV-TRV027,INV-TRV027,36858411,TRV-120027,Drug,Ingredient,10
+mimiciv_hosp.prescriptions.drug,Probiotic Colon Care,Probiotic Colon Care,19006764,Bifidobacterium bifidum,Drug,Ingredient,10
+mimiciv_hosp.prescriptions.drug,Probiotic Colon Care,Probiotic Colon Care,37003171,Lactobacillus gasseri,Drug,Ingredient,10
+mimiciv_hosp.prescriptions.drug,Probiotic Colon Care,Probiotic Colon Care,40242573,Bifidobacterium longum,Drug,Ingredient,10
+mimiciv_hosp.prescriptions.drug,Spectravite Adult 50+,Spectravite Adult 50+,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,10
+mimiciv_icu.d_items.label,228217,Tandem Heart Return Cannula Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92310,Y92310,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92482,Y92482,44791698,Place of occurrence of injury is non highway environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92513,Y92513,46286094,Place of occurrence of injury is trade or service environment,Observation,Clinical Finding,<10
+mimiciv_hosp.prescriptions.drug,CRLX101,CRLX101,36863256,CAMPTOTHECIN,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Multiple Vitamin-Minerals,Multiple Vitamin-Minerals,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Ocuvite with Lutein,Ocuvite with Lutein,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Multi-DHA (algal oil),Prenatal Multi-DHA (algal oil),21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Super B Complex-Vitamin C,Super B Complex-Vitamin C,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_icu.d_items.label,226737,AaDO2ApacheIIValue,4159406,Acute physiology and chronic health evaluation II,Measurement,Staging / Scales,<10
+mimiciv_hosp.d_hcpcs.code,10120,"Incision and removal of foreign body, subcutaneous tissues; simple",40478913,Removal of foreign body from subcutaneous tissue by incision,Procedure,Procedure,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92328,Y92328,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92510,Y92510,46286094,Place of occurrence of injury is trade or service environment,Observation,Clinical Finding,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90170,"FISH ANALYSIS, 3-5 CELLS",40765108,Chromosome analysis panel by FISH,Measurement,Lab Test,<10
+mimiciv_hosp.prescriptions.drug,Advanced Eye Health,Advanced Eye Health,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Lactobac #2-Bifido #1-S. therm,Lactobac #2-Bifido #1-S. therm,1759196,Streptococcus thermophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lactobac #2-Bifido #1-S. therm,Lactobac #2-Bifido #1-S. therm,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lactobac #2-Bifido #1-S. therm,Lactobac #2-Bifido #1-S. therm,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Omega-3,Omega-3,19106973,omega-3 fatty acids,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Phillips Colon Health,Phillips Colon Health,19006764,Bifidobacterium bifidum,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Phillips Colon Health,Phillips Colon Health,37003171,Lactobacillus gasseri,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Phillips Colon Health,Phillips Colon Health,40242573,Bifidobacterium longum,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,ProSource,ProSource,36854251,WHEY,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,ProSource,ProSource,43014046,caseinate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Thyrosol,Thyrosol,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_icu.d_items.label,226980,AgeScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,226982,AlbuminScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,226984,Apache IV Age,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,226994,ApacheIV_Mortality prediction,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,226995,ApacheIV_Natural antilog,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,226999,BiliScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227004,ChronicScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227006,CreatScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227013,GcsScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227016,GlucoseScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227019,HrScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227021,Intubated_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227024,MapScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227035,OxygenScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227038,PHPaCO2Score_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227051,RRScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227053,SodiumScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227055,TempScore_ApacheIV,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.d_items.label,227062,WBC_ApacheIV,3010813,Leukocytes [#/volume] in Blood,Measurement,Lab Test,<10
+mimiciv_icu.d_items.label,229544,EKOS Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,<10
+mimiciv_icu.inputevents.itemid,225993,Optisource,4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,<10
+mimiciv_hosp.d_hcpcs.code,10121,"Incision and removal of foreign body, subcutaneous tissues; complicated",40478913,Removal of foreign body from subcutaneous tissue by incision,Procedure,Procedure,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92048,Y92048,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92093,Y92093,44791698,Place of occurrence of injury is non highway environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9263,Y9263,44790746,Place of occurrence of injury is industrial area,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92812,Y92812,44791687,Heavy goods vehicle accident,Observation,Event,<10
+mimiciv_hosp.prescriptions.drug,INV-Nimodipine 600mg,INV-Nimodipine 600mg,40069234,nimodipine Injectable Solution,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Lactinex,Lactinex,987153,Lactobacillus acidophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lactinex,Lactinex,19000382,Lactobacillus delbrueckii subsp. bulgaricus,Drug,Ingredient,<10
+mimiciv_icu.d_items.label,226990,Apache IV PaFiRatio,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.inputevents.itemid,226000,Chocolate Scandi Shake (mixed),4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92321,Y92321,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92330,Y92330,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92520,Y92520,35609501,Place of occurrence of injury is transport interchange,Observation,Clinical Finding,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90078,CHROMOSOME ANALYSIS-FLUID,1002418,Chromosome analysis in Blood or Tissue by Microarray,Measurement,Lab Test,<10
+mimiciv_hosp.prescriptions.drug,Adrenal Essence,Adrenal Essence,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Ayr Saline Gel,Ayr Saline Gel,967823,sodium chloride,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ayr Saline Gel,Ayr Saline Gel,1315376,Aloe vera preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Bariatric Multivitamins,Bariatric Multivitamins,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,CRRT-Pharmacy to Dose Medications,CRRT-Pharmacy to Dose Medications,4178905,Hemodialysis fluid,Device,Pharma/Biol Product,<10
+mimiciv_hosp.prescriptions.drug,D25W,D25W,19067299,glucose 250 MG/ML Injectable Solution,Drug,Clinical Drug,<10
+mimiciv_hosp.prescriptions.drug,HYDROmorphone-bupiv (PF)-NaCL,HYDROmorphone-bupiv (PF)-NaCL,732893,bupivacaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,HYDROmorphone-bupiv (PF)-NaCL,HYDROmorphone-bupiv (PF)-NaCL,1126658,hydromorphone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Metanx (algal oil),Metanx (algal oil),19009025,mecobalamin,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Metanx (algal oil),Metanx (algal oil),19059817,pyridoxal,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Metanx (algal oil),Metanx (algal oil),45774679,Schizochytrium DHA oil,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Metanx (algal oil),Metanx (algal oil),45775208,levomefolate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Multi + DHA,Prenatal Multi + DHA,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Progesterone/E2/E3/DHEA/TESTOSTERONE,Progesterone/E2/E3/DHEA/TESTOSTERONE,1548195,estradiol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Progesterone/E2/E3/DHEA/TESTOSTERONE,Progesterone/E2/E3/DHEA/TESTOSTERONE,1552310,progesterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Progesterone/E2/E3/DHEA/TESTOSTERONE,Progesterone/E2/E3/DHEA/TESTOSTERONE,1636780,testosterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Progesterone/E2/E3/DHEA/TESTOSTERONE,Progesterone/E2/E3/DHEA/TESTOSTERONE,19049038,estriol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Progesterone/E2/E3/DHEA/TESTOSTERONE,Progesterone/E2/E3/DHEA/TESTOSTERONE,36848825,ANDROSTANOLONE,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Spectravite Adult,Spectravite Adult,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Superior Digestive Enzyme,Superior Digestive Enzyme,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,ketamine 5%/ lidocaine 5% / amit 2%,ketamine 5%/ lidocaine 5% / amit 2%,710062,amitriptyline,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,ketamine 5%/ lidocaine 5% / amit 2%,ketamine 5%/ lidocaine 5% / amit 2%,785649,ketamine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,ketamine 5%/ lidocaine 5% / amit 2%,ketamine 5%/ lidocaine 5% / amit 2%,989878,lidocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,neutra,neutra,4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,<10
+mimiciv_hosp.prescriptions.drug,"prenat.vits,cal,min-iron-folic","prenat.vits,cal,min-iron-folic",21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92210,Y92210,44790728,Place of occurrence of injury is educational establishment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92833,Y92833,46286019,Place of occurrence of injury is recreational area,Observation,Clinical Finding,<10
+mimiciv_hosp.prescriptions.drug,"Hair, Skin, Nails with Biotin","Hair, Skin, Nails with Biotin",21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Multivita,Multivita,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Nasogel,Nasogel,787787,hyaluronate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Nasogel,Nasogel,939506,sodium bicarbonate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Nasogel,Nasogel,967823,sodium chloride,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Nasogel,Nasogel,1315376,Aloe vera preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Multivitamins,Prenatal Multivitamins,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,V-C Forte,V-C Forte,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS,VSL#3 DS,1759196,Streptococcus thermophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS,VSL#3 DS,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS,VSL#3 DS,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Visbiome,Visbiome,1759196,Streptococcus thermophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Visbiome,Visbiome,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Visbiome,Visbiome,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_icu.d_items.label,229552,Avalon Line Discontinued,4190104,Procedure discontinued,Observation,Context-dependent,<10
+mimiciv_icu.inputevents.itemid,225991,Resource Fruit Beverage,4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92251,Y92251,44791203,Place of occurrence of injury is public building environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92312,Y92312,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90148,Cryopreservation - Cells,4338536,Cryopreservation,Procedure,Procedure,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90209,Pediatric Bottle Gram Stain,37392885,Gram stain microscopy,Measurement,Observable Entity,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90219,CRE/ESBL/AMP-C Screening,3027247,Bacteria identified in Specimen,Measurement,Lab Test,<10
+mimiciv_hosp.prescriptions.drug,Caltrate + D3 Plus Minerals,Caltrate + D3 Plus Minerals,2921400,calcium carbonate / cholecalciferol / copper sulfate / magnesium / manganese / zinc Oral Tablet [Caltrate Plus With Vitamin D],Drug,Branded Drug Form,<10
+mimiciv_hosp.prescriptions.drug,HYDROmorphone/Bupivacaine Intrathecal,HYDROmorphone/Bupivacaine Intrathecal,732893,bupivacaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,HYDROmorphone/Bupivacaine Intrathecal,HYDROmorphone/Bupivacaine Intrathecal,1126658,hydromorphone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Hair Formula,Hair Formula,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Herb-Lax,Herb-Lax,938268,"sennosides, USP",Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-KRN-7000,INV-KRN-7000,36862954,ALPHA-GALACTOSYLCERAMIDE,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Omega 3 Fish Oil,Omega 3 Fish Oil,19106973,omega-3 fatty acids,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,PHENYLEPHrin 60mg/250mL 250mL NS,PHENYLEPHrin 60mg/250mL 250mL NS,1135766,phenylephrine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,"PNV no.63-iron,carbonyl-FA-dha","PNV no.63-iron,carbonyl-FA-dha",21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Propimex-2,Propimex-2,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Spectravite Ultra Women,Spectravite Ultra Women,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Triple Omega 3-6-9,Triple Omega 3-6-9,43189970,Omega-3 Fatty Acids Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92120,Y92120,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92162,Y92162,35609182,Place of occurrence of injury is student accommodation,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92168,Y92168,35609182,Place of occurrence of injury is student accommodation,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92240,Y92240,44791203,Place of occurrence of injury is public building environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9234,Y9234,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,<10
+mimiciv_hosp.d_labitems.itemid,51129,Young|Ascites|%,40771529,Immature granulocytes/Leukocytes in Body fluid,Measurement,Lab Test,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90109,M.FURFUR CULTURE,4015193,"Fungal culture, with definitive identification",Measurement,Procedure,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90157,DIRECT RSV ANTIGEN TEST,37393549,Respiratory syncytial virus antigen assay,Measurement,Observable Entity,<10
+mimiciv_hosp.prescriptions.drug,D30W,D30W,35129866,Glucose 300 MG/ML Injectable Solution,Drug,Clinical Drug,<10
+mimiciv_hosp.prescriptions.drug,Flintstones Multivitamin,Flintstones Multivitamin,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,INV-Bexanolone,INV-Bexanolone,1511004,brexanolone 5 MG/ML Injection,Drug,Clinical Drug,<10
+mimiciv_hosp.prescriptions.drug,INV-Crizotinib,INV-Crizotinib,40242675,crizotinib,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Denintuzumab Mafodotin,INV-Denintuzumab Mafodotin,36857901,DENINTUZUMAB MAFODOTIN,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Epeleuton,INV-Epeleuton,36857304,EPELEUTON,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Morphine Intrathecal,INV-Morphine Intrathecal,35604830,morphine Injection,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,INV-TTAX01,INV-TTAX01,1253432,ALLOGENIC CRYOPRESERVED HUMAN UMBILICAL CORD TISSUE,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Tivantinib,INV-Tivantinib,36860467,TIVANTINIB,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Multivitam,Multivitam,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,One A Day Womens Prenatal DHA,One A Day Womens Prenatal DHA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,One Daily Womens,One Daily Womens,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,PrenaPlus,PrenaPlus,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal + DHA,Prenatal + DHA,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Plus (calcium carb),Prenatal Plus (calcium carb),21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamin with Minerals,Prenatal Vitamin with Minerals,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal-DHA,Prenatal-DHA,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,phosphatidylcholine (bulk),phosphatidylcholine (bulk),1366361,"phosphatidylcholine, soybean",Drug,Ingredient,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92028,Y92028,44790744,Place of occurrence of injury is home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92124,Y92124,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92211,Y92211,44790728,Place of occurrence of injury is educational establishment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92213,Y92213,44790728,Place of occurrence of injury is educational establishment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92218,Y92218,44790728,Place of occurrence of injury is educational establishment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92241,Y92241,44791203,Place of occurrence of injury is public building environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92242,Y92242,46286094,Place of occurrence of injury is trade or service environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92412,Y92412,44790743,Place of occurrence of injury is highway environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92521,Y92521,35609501,Place of occurrence of injury is transport interchange,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9262,Y9262,44790746,Place of occurrence of injury is industrial area,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9271,Y9271,42689536,Place of occurrence of injury is utility room in home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92831,Y92831,46286019,Place of occurrence of injury is recreational area,Observation,Clinical Finding,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90154,BARTONELLA BLOOD CULTURE,4107893,Blood culture,Measurement,Procedure,<10
+mimiciv_hosp.prescriptions.drug,AH Topical Gel,AH Topical Gel,766529,haloperidol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,AH Topical Gel,AH Topical Gel,791967,lorazepam,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Acetic Acid Glacial 0.04%,Acetic Acid Glacial 0.04%,929549,acetic acid,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Amit-bacl-keto,Amit-bacl-keto,710062,amitriptyline,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Amit-bacl-keto,Amit-bacl-keto,715233,baclofen,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Amit-bacl-keto,Amit-bacl-keto,785649,ketamine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ayr Saline Gel (Gel Nasal Salino),Ayr Saline Gel (Gel Nasal Salino),967823,sodium chloride,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ayr Saline Gel (Gel Nasal Salino),Ayr Saline Gel (Gel Nasal Salino),1315376,Aloe vera preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Baclofen/Clonidine Intrathecal,Baclofen/Clonidine Intrathecal,715233,baclofen,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Baclofen/Clonidine Intrathecal,Baclofen/Clonidine Intrathecal,1398937,clonidine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Biotene Moisturizing Mouth Spray,Biotene Moisturizing Mouth Spray,45758338,Artificial saliva,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,Calcium 600+D3 Plus,Calcium 600+D3 Plus,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Cem 102 300mg tab,Cem 102 300mg tab,41263780,Fusidate 300 MG,Drug,Clinical Drug Comp,<10
+mimiciv_hosp.prescriptions.drug,DAS181,DAS181,36849891,OPLUNOFUSP,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Deplin (algal oil),Deplin (algal oil),45774679,Schizochytrium DHA oil,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Deplin (algal oil),Deplin (algal oil),45775208,levomefolate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Diazepam/Lidocaine Supp,Diazepam/Lidocaine Supp,723013,diazepam,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Diazepam/Lidocaine Supp,Diazepam/Lidocaine Supp,989878,lidocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Estroven Maximum Strength,Estroven Maximum Strength,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Fish Oil Concentrate,Fish Oil Concentrate,35200165,fish oil (containing omega-3 acids),Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Giredestrant (GDC-9545),INV-Giredestrant (GDC-9545),36850094,GIREDESTRANT,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-H3B-8800,INV-H3B-8800,36854781,H3B-8800,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-MP0420,INV-MP0420,36860546,ENSOVIBEP,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-PEN-221,INV-PEN-221,36859119,NENDRATAREOTIDE UZATANSINE,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-TXA127,INV-TXA127,36858302,ANGIOTENSIN 1-7,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Integra,Integra,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Mederma,Mederma,966376,allantoin,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,OysterShell500+VitD3,OysterShell500+VitD3,19121187,calcium carbonate 500 MG / cholecalciferol 200 UNT Oral Tablet,Drug,Clinical Drug,<10
+mimiciv_hosp.prescriptions.drug,PNV-DHA,PNV-DHA,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prefera-OB One,Prefera-OB One,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prefera-OB Plus DHA,Prefera-OB Plus DHA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Multivitamin,Prenatal Multivitamin,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Plus DHA,Prenatal Plus DHA,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vit-Calcium-FA-Fe,Prenatal Vit-Calcium-FA-Fe,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamins Low Iron,Prenatal Vitamins Low Iron,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal-Folic Acid,Prenatal-Folic Acid,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenate DHA,Prenate DHA,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Formula,Probiotic Formula,987153,Lactobacillus acidophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Formula,Probiotic Formula,1366391,Ligilactobacillus salivarius,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Formula,Probiotic Formula,35602886,Lactiplantibacillus plantarum,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Formula,Probiotic Formula,45775207,Lacticaseibacillus casei,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Formula,Probiotic Formula,45776867,Bifidobacterium animalis,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Thera Tears Nutrition,Thera Tears Nutrition,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Theragran-M,Theragran-M,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 450 Billion Pkt,VSL#3 450 Billion Pkt,1759196,Streptococcus thermophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 450 Billion Pkt,VSL#3 450 Billion Pkt,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 450 Billion Pkt,VSL#3 450 Billion Pkt,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,choline bit-AA 10-GABA-herb129,choline bit-AA 10-GABA-herb129,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,immun glob G(IgG)-pro-IgA 0-50,immun glob G(IgG)-pro-IgA 0-50,19052736,proline,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,immun glob G(IgG)-pro-IgA 0-50,immun glob G(IgG)-pro-IgA 0-50,19117912,immunoglobulin G,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,immun glob G(IgG)-pro-IgA 0-50,immun glob G(IgG)-pro-IgA 0-50,43531966,immunoglobulin A,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,omega 3-dha-epa-fish oil,omega 3-dha-epa-fish oil,19106973,omega-3 fatty acids,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,prenatal multivit-Ca-min-Fe-FA,prenatal multivit-Ca-min-Fe-FA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,tri-est/prog/test,tri-est/prog/test,1548195,estradiol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,tri-est/prog/test,tri-est/prog/test,1549254,estrone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,tri-est/prog/test,tri-est/prog/test,1552310,progesterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,tri-est/prog/test,tri-est/prog/test,1636780,testosterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,tri-est/prog/test,tri-est/prog/test,19049038,estriol,Drug,Ingredient,<10
+mimiciv_icu.d_items.label,225656,Freeform Chemistry,2212635,Unlisted chemistry procedure,Measurement,CPT4,<10
+mimiciv_icu.d_items.label,226983,Apache IV A-aDO2,4159405,Acute physiology and chronic health evaluation,Measurement,Staging / Scales,<10
+mimiciv_icu.inputevents.itemid,226002,Vanilla Lactose Free Scandi Shake (mixed),4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,W4909XA,W4909XA,440921,Traumatic injury,Condition,Disorder,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92027,Y92027,42689560,Place of occurrence of injury is garden in home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92119,Y92119,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92142,Y92142,35609185,Place of occurrence of injury is prison,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92147,Y92147,35609185,Place of occurrence of injury is prison,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92191,Y92191,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92197,Y92197,44791204,Place of occurrence of injury is residential home environment,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92253,Y92253,35609190,Place of occurrence of injury is live music venue,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y92318,Y92318,44791205,Place of occurrence of injury is sports facility,Observation,Clinical Finding,<10
+mimiciv_hosp.d_icd_diagnoses.icd_code,Y9273,Y9273,46286017,Place of occurrence of injury is farm environment,Observation,Clinical Finding,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90065,STOOL SMEAR FOR POLYMORPHONUCLEAR LEUKOCYTES,2213329,"Leukocyte assessment, fecal, qualitative or semiquantitative",Measurement,CPT4,<10
+mimiciv_hosp.microbiologyevents.test_itemid,90216,Malassezia furfur Culture,4015193,"Fungal culture, with definitive identification",Measurement,Procedure,<10
+mimiciv_hosp.prescriptions.drug,7-Keto DHEA,7-Keto DHEA,1312007,prasterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,AYR Saline Nasal Gel,AYR Saline Nasal Gel,967823,sodium chloride,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Acotol,Acotol,19106315,dienogest 2 MG / ethinyl estradiol 0.03 MG Oral Tablet,Drug,Clinical Drug,<10
+mimiciv_hosp.prescriptions.drug,Aquacel-Ag,Aquacel-Ag,4222679,Wound dressing,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,B complex-C-folic acid-Zn,B complex-C-folic acid-Zn,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,B-50,B-50,19010970,vitamin B complex,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,BD Ultra-Fine Pen Needle,BD Ultra-Fine Pen Needle,4194531,Needle,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,Benefiber on the Go!,Benefiber on the Go!,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Bictegravir + Truvada (200/25 mg),Bictegravir + Truvada (200/25 mg),964008,bictegravir,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Bictegravir + Truvada (200/25 mg),Bictegravir + Truvada (200/25 mg),1703069,emtricitabine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Bictegravir + Truvada (200/25 mg),Bictegravir + Truvada (200/25 mg),1710281,tenofovir disoproxil,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Biotene Dry Moisturizing Spray,Biotene Dry Moisturizing Spray,45758338,Artificial saliva,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,Biotene Oralbalance Spray,Biotene Oralbalance Spray,45758338,Artificial saliva,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,Bulk Chemical,Bulk Chemical,766529,haloperidol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,C-Vitamin Cocktail,C-Vitamin Cocktail,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,CVS Health Prenatal Gummy,CVS Health Prenatal Gummy,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,CVS Spectravite,CVS Spectravite,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Calcium Citrate + D with Mag,Calcium Citrate + D with Mag,19018544,calcium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Calcium Citrate + D with Mag,Calcium Citrate + D with Mag,19095164,cholecalciferol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Calcium Citrate + D with Mag,Calcium Citrate + D with Mag,19124906,magnesium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,"Calcium Citrate, Magnesium citrate, vitamin C","Calcium Citrate, Magnesium citrate, vitamin C",21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Centrum Silver Multivitamin,Centrum Silver Multivitamin,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Centrum Silver Ultra Mens,Centrum Silver Ultra Mens,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Chewable Multi Vitamin,Chewable Multi Vitamin,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Citracal Plus Magnesium,Citracal Plus Magnesium,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Cobimetinib/Ipatasertib,Cobimetinib/Ipatasertib,35605804,cobimetinib,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Cobimetinib/Ipatasertib,Cobimetinib/Ipatasertib,36852027,IPATASERTIB,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Code ATS99,Code ATS99,19024227,methacholine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Daily Vitamin,Daily Vitamin,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Deplin 15 (algal oil),Deplin 15 (algal oil),45774679,Schizochytrium DHA oil,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Deplin 15 (algal oil),Deplin 15 (algal oil),45775208,levomefolate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,"DiaResQ (colustrum, bovine)","DiaResQ (colustrum, bovine)",4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,DiaResQ 4 gram-35 kcal/7 gram,DiaResQ 4 gram-35 kcal/7 gram,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Dialyvite,Dialyvite,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Dietary Supplement,Dietary Supplement,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,DuoDERM Hydroactive,DuoDERM Hydroactive,4222039,Hydrocolloid dressing,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,ENMD 2076,ENMD 2076,36858497,ENMD-981693,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,FIRST-Mouthwash BLM,FIRST-Mouthwash BLM,966991,simethicone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,FIRST-Mouthwash BLM,FIRST-Mouthwash BLM,985247,aluminum hydroxide,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,FIRST-Mouthwash BLM,FIRST-Mouthwash BLM,989878,lidocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,FIRST-Mouthwash BLM,FIRST-Mouthwash BLM,992956,magnesium hydroxide,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,FIRST-Mouthwash BLM,FIRST-Mouthwash BLM,1129625,diphenhydramine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Fentanyl Citrate/Bupivacaine Hcl,Fentanyl Citrate/Bupivacaine Hcl,732893,bupivacaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Fentanyl Citrate/Bupivacaine Hcl,Fentanyl Citrate/Bupivacaine Hcl,1154029,fentanyl,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Fish oil Adult Gummies,Fish oil Adult Gummies,35200165,fish oil (containing omega-3 acids),Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Flintstones Complete Chew Tabs,Flintstones Complete Chew Tabs,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Flintstones plus immunity support,Flintstones plus immunity support,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Flintstones with Iron,Flintstones with Iron,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Florafiber,Florafiber,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Freedavite 1.8-400 mg/mcg,Freedavite 1.8-400 mg/mcg,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,GS9451,GS9451,36858882,VEDROPREVIR,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Gummi Multivitamin,Gummi Multivitamin,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Guppy Gummies-THC 50mg,Guppy Gummies-THC 50mg,1037005,dronabinol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Halflytely-Bisacodyl w-Flav Pk,Halflytely-Bisacodyl w-Flav Pk,924939,bisacodyl,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Halflytely-Bisacodyl w-Flav Pk,Halflytely-Bisacodyl w-Flav Pk,986417,polyethylene glycol 3350,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Hydromorphone/Bupivicaine,Hydromorphone/Bupivicaine,732893,bupivacaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Hydromorphone/Bupivicaine,Hydromorphone/Bupivicaine,1126658,hydromorphone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,I-Caps Areds,I-Caps Areds,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,INV-ASP1235,INV-ASP1235,36850812,AGS62P1,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Atezolizumab,INV-Atezolizumab,42629081,atezolizumab Injection,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,INV-Clazosentan,INV-Clazosentan,36850945,CLAZOSENTAN,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-DAS181,INV-DAS181,36849891,OPLUNOFUSP,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Emricasan,INV-Emricasan,36860263,EMRICASAN,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Itacitinib,INV-Itacitinib,36849476,ITACITINIB,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Letrozole,INV-Letrozole,1315946,letrozole,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Mepolizumab,INV-Mepolizumab,35606633,mepolizumab Injection,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,INV-Pegvorhyaluronidase alfa,INV-Pegvorhyaluronidase alfa,36860257,PEGVORHYALURONIDASE ALFA,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-Selonsertib,INV-Selonsertib,36859915,SELONSERTIB,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,INV-fos,INV-fos,36849793,FOSMANOGEPIX,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Icaps MV 100 mcg-1.66 mg-0.83 mg Tab,Icaps MV 100 mcg-1.66 mg-0.83 mg Tab,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ketamine/Gabapentin/Amitriptyline,Ketamine/Gabapentin/Amitriptyline,710062,amitriptyline,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ketamine/Gabapentin/Amitriptyline,Ketamine/Gabapentin/Amitriptyline,785649,ketamine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ketamine/Gabapentin/Amitriptyline,Ketamine/Gabapentin/Amitriptyline,797399,gabapentin,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lactobacillus Acidophilus-Pectin,Lactobacillus Acidophilus-Pectin,922191,pectin,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lactobacillus Acidophilus-Pectin,Lactobacillus Acidophilus-Pectin,987153,Lactobacillus acidophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lactobacillus acidoph & bifid,Lactobacillus acidoph & bifid,987153,Lactobacillus acidophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lactobacillus acidoph & bifid,Lactobacillus acidoph & bifid,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Laminaria 6 mm - Extra Large,Laminaria 6 mm - Extra Large,45768030,Cervical dilator,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,Lidocaine 1%/Epi 1:1000 in LR,Lidocaine 1%/Epi 1:1000 in LR,989878,lidocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Lidocaine 1%/Epi 1:1000 in LR,Lidocaine 1%/Epi 1:1000 in LR,1343916,epinephrine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,"Lidocaine 1%/Epi 1::100,000","Lidocaine 1%/Epi 1::100,000",989878,lidocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,"Lidocaine 1%/Epi 1::100,000","Lidocaine 1%/Epi 1::100,000",1343916,epinephrine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,M-Vit (Doctor's Choice Eye Formula),M-Vit (Doctor's Choice Eye Formula),4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Mega Multivitamin with Mineral,Mega Multivitamin with Mineral,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Men's One a Day Multivitamin,Men's One a Day Multivitamin,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Metamucil Sugar Free,Metamucil Sugar Free,19132965,Plantago seed,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Morphine/Bupivacaine/CloNIDine Intrathecal,Morphine/Bupivacaine/CloNIDine Intrathecal,732893,bupivacaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Morphine/Bupivacaine/CloNIDine Intrathecal,Morphine/Bupivacaine/CloNIDine Intrathecal,1110410,morphine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Morphine/Bupivacaine/CloNIDine Intrathecal,Morphine/Bupivacaine/CloNIDine Intrathecal,1398937,clonidine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Multivitamin Gummies,Multivitamin Gummies,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Multivitamin Softgel,Multivitamin Softgel,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Multivitamins W/mineral,Multivitamins W/mineral,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,"Multivitamins c minerals,no vit K","Multivitamins c minerals,no vit K",36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Multivitamins w/.mineral,Multivitamins w/.mineral,36878782,Multivitamin preparation,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Multivitamins w/Minerals,Multivitamins w/Minerals,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Multivitman w/ Iron,Multivitman w/ Iron,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Natelle Plus,Natelle Plus,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,NatureMade Prenatal MULTI,NatureMade Prenatal MULTI,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Nepro Carb Steady,Nepro Carb Steady,37119310,Renal specialty enteral formula,Device,Pharma/Biol Product,<10
+mimiciv_hosp.prescriptions.drug,Neptune Krill 1000,Neptune Krill 1000,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Nicotinamide Riboside and Pterostilebene,Nicotinamide Riboside and Pterostilebene,36848964,NICOTINAMIDE RIBOSIDE,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Nifedipine/Lidocaine,Nifedipine/Lidocaine,989878,lidocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Nifedipine/Lidocaine,Nifedipine/Lidocaine,1318853,nifedipine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Oatmeal Bath Regular,Oatmeal Bath Regular,986261,colloidal oatmeal,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ocutabs,Ocutabs,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Ocuvite PreserVision,Ocuvite PreserVision,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Omega XL,Omega XL,43189970,Omega-3 Fatty Acids Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Omega-3 Fatty Acids-Vitamin E,Omega-3 Fatty Acids-Vitamin E,19106973,omega-3 fatty acids,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,One Daily Gummy Vites,One Daily Gummy Vites,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,One-A-Day VitaCraves,One-A-Day VitaCraves,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Os-Cal 500+D,Os-Cal 500+D,42705935,calcium carbonate / cholecalciferol Chewable Tablet [Os-Cal 500 with D],Drug,Branded Drug Form,<10
+mimiciv_hosp.prescriptions.drug,PNV Multi + DHA,PNV Multi + DHA,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,"PNV with Ca,No.72-Iron-FA","PNV with Ca,No.72-Iron-FA",21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,PNV- DHA,PNV- DHA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,PNV-DHA soft gel,PNV-DHA soft gel,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,PR Natal 400,PR Natal 400,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Pentoxifylline 200mg/Vit E 50IU,Pentoxifylline 200mg/Vit E 50IU,1331247,pentoxifylline,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Pentoxifylline 200mg/Vit E 50IU,Pentoxifylline 200mg/Vit E 50IU,19009540,vitamin E,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Pepogest,Pepogest,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,PreNatal Gummy Vitamins,PreNatal Gummy Vitamins,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Precious Gems Prenatal Gummies,Precious Gems Prenatal Gummies,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prena1 Pearl,Prena1 Pearl,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Chewable Tabs,Prenatal Chewable Tabs,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Prenatal DHA & Folic Acid,Prenatal DHA & Folic Acid,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Gummie vitamins,Prenatal Gummie vitamins,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,"Prenatal Gummies ""NF""","Prenatal Gummies ""NF""",4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Gummies (CVS),Prenatal Gummies (CVS),4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Multivitamin/Mineral,Prenatal Multivitamin/Mineral,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Multivitamins +DHA,Prenatal Multivitamins +DHA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Petite Mini Tab,Prenatal Petite Mini Tab,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamin  *NF*,Prenatal Vitamin  *NF*,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamin (Smarty Pants),Prenatal Vitamin (Smarty Pants),21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamin 200mg DHA,Prenatal Vitamin 200mg DHA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamin(Wellness Essentials Pregnancy),Prenatal Vitamin(Wellness Essentials Pregnancy),21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamins (Wellness Essentials),Prenatal Vitamins (Wellness Essentials),21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal Vitamins-Iron-FA,Prenatal Vitamins-Iron-FA,21145611,Multivitamin preparation Chewable Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal vit,Prenatal vit,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal vitamin,Prenatal vitamin,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenatal with iron,Prenatal with iron,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Prenate Elite,Prenate Elite,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,"PreserVision AREDS (vitamins A,C,E-zinc-copper)","PreserVision AREDS (vitamins A,C,E-zinc-copper)",21037655,Multivitamin preparation Oral Capsule [PreserVision],Drug,Branded Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Probiotic & Acidophilus,Probiotic & Acidophilus,19019317,pantethine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic & Acidophilus,Probiotic & Acidophilus,19066563,fructooligosaccharide,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic & Acidophilus,Probiotic & Acidophilus,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Colon Health,Probiotic Colon Health,987153,Lactobacillus acidophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Colon Health,Probiotic Colon Health,19006764,Bifidobacterium bifidum,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Probiotic Colon Health,Probiotic Colon Health,40242573,Bifidobacterium longum,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,RAW MEAL ENERGY,RAW MEAL ENERGY,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Repliva 21/7 (New Formulation),Repliva 21/7 (New Formulation),21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Spanish black radish (OTC supplement),Spanish black radish (OTC supplement),42903899,radish extract,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Spectravite Plus,Spectravite Plus,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Super B Complex + C,Super B Complex + C,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Thermacare Neck/Shoulder/Arm,Thermacare Neck/Shoulder/Arm,4218198,Non-electric heating pad,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,Ultimate Omega-D3 1000 mg,Ultimate Omega-D3 1000 mg,19095164,cholecalciferol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Ultimate Omega-D3 1000 mg,Ultimate Omega-D3 1000 mg,19106973,omega-3 fatty acids,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VIT D/PCB 4000/400/0 IU,VIT D/PCB 4000/400/0 IU,19095164,cholecalciferol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 450 Billion Packet,VSL#3 450 Billion Packet,1759196,Streptococcus thermophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 450 Billion Packet,VSL#3 450 Billion Packet,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 450 Billion Packet,VSL#3 450 Billion Packet,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS 900 Billion Pkt Probiotic,VSL#3 DS 900 Billion Pkt Probiotic,1759196,Streptococcus thermophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS 900 Billion Pkt Probiotic,VSL#3 DS 900 Billion Pkt Probiotic,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS 900 Billion Pkt Probiotic,VSL#3 DS 900 Billion Pkt Probiotic,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS 900 Billion Probiotic PKT,VSL#3 DS 900 Billion Probiotic PKT,1759196,Streptococcus thermophilus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS 900 Billion Probiotic PKT,VSL#3 DS 900 Billion Probiotic PKT,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,VSL#3 DS 900 Billion Probiotic PKT,VSL#3 DS 900 Billion Probiotic PKT,36118947,Bifidobacterium,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Vica Forte,Vica Forte,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Vicks Vapor Inhaler,Vicks Vapor Inhaler,42903872,levo-methamphetamine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Vinate AZ,Vinate AZ,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,VitD/PCB 4000/400/0IU,VitD/PCB 4000/400/0IU,19095164,cholecalciferol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Vitamin Cocktail Capsule,Vitamin Cocktail Capsule,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Volumen (barium 0.1%),Volumen (barium 0.1%),19011331,barium sulfate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,Willard Water Clear Concentrate,Willard Water Clear Concentrate,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,Womens Prenatal + DHA,Womens Prenatal + DHA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,Xylitol Sinus Care Spray,Xylitol Sinus Care Spray,19010496,xylitol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,alpha-glycosyl isoquercitrin,alpha-glycosyl isoquercitrin,40159703,quercetin Oral Capsule,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,baclofen intrathecal pump,baclofen intrathecal pump,715233,baclofen,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,benzocaine-menthol,benzocaine-menthol,901656,menthol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,benzocaine-menthol,benzocaine-menthol,917006,benzocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,"budesonide, micronized (bulk)","budesonide, micronized (bulk)",939259,budesonide,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,creatine monohydrate 2500mg Cap,creatine monohydrate 2500mg Cap,19071967,creatine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,diazePAM suppositories,diazePAM suppositories,723013,diazepam,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,estradiol/prog,estradiol/prog,1548195,estradiol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,estradiol/prog,estradiol/prog,1552310,progesterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,ketamine troches,ketamine troches,785649,ketamine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,liothyronine (bulk) (T3),liothyronine (bulk) (T3),1505346,liothyronine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,mbl,mbl,985247,aluminum hydroxide,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,mbl,mbl,989878,lidocaine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,mbl,mbl,992956,magnesium hydroxide,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,mbl,mbl,1129625,diphenhydramine,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,medroxyPROGESTerone 1% drops,medroxyPROGESTerone 1% drops,1500211,medroxyprogesterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,mln8237,mln8237,36861654,ALISERTIB,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,multivitamin with iron,multivitamin with iron,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,"omega 3-dha-epa-fish oil,4c,3c,1c","omega 3-dha-epa-fish oil,4c,3c,1c",19106973,omega-3 fatty acids,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,omega-3 fatty acids-dha-epa,omega-3 fatty acids-dha-epa,19106973,omega-3 fatty acids,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,osimertinib + gefitinib,osimertinib + gefitinib,1319193,gefitinib,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,osimertinib + gefitinib,osimertinib + gefitinib,35605522,osimertinib,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,prenatal DHA,prenatal DHA,4190196,Nutritional supplement,Device,Substance,<10
+mimiciv_hosp.prescriptions.drug,prenatal vit-iron fumarate-FA,prenatal vit-iron fumarate-FA,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,<10
+mimiciv_hosp.prescriptions.drug,proGESTerone -estradiol 100-1mg/mL,proGESTerone -estradiol 100-1mg/mL,1548195,estradiol,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,proGESTerone -estradiol 100-1mg/mL,proGESTerone -estradiol 100-1mg/mL,1552310,progesterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,probiotic packet,probiotic packet,36118942,Lactobacillus,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,progesterone micronized (bulk),progesterone micronized (bulk),1552310,progesterone,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,saliva substitute combo no.3,saliva substitute combo no.3,45758338,Artificial saliva,Device,Physical Object,<10
+mimiciv_hosp.prescriptions.drug,thyroid (bulk) (thyroid extract),thyroid (bulk) (thyroid extract),1501309,thyroid (USP),Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,thyroid extract SR,thyroid extract SR,1501309,thyroid (USP),Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,ucalcium citrate,ucalcium citrate,19058572,calcium citrate,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,vancoMYCIN for inhalation,vancoMYCIN for inhalation,1707687,vancomycin,Drug,Ingredient,<10
+mimiciv_hosp.prescriptions.drug,vancoMYCIN for nasal inhalation,vancoMYCIN for nasal inhalation,1707687,vancomycin,Drug,Ingredient,<10
+mimiciv_icu.d_items.label,225657,Freeform Coags,37394217,Blood coagulation test,Measurement,Observable Entity,<10
+mimiciv_icu.inputevents.itemid,226875,Ensure (3/4),21350499,Ensure liquid,Device,AMP,<10
+mimiciv_icu.inputevents.itemid,227976,Boost Glucose Control (1/4),45187151,BOOST GLUCOSE CONTROL LIQUID,Device,Device,<10
+mimic4wdb,PLETHl,PLETHl,4353958,Plethysmograph waveform,Measurement,Observable Entity,0
+mimic4wdb,PLETHr,PLETHr,4353958,Plethysmograph waveform,Measurement,Observable Entity,0
+mimic4wdb,PULSE (ABP) [BPM],PULSE (ABP) [BPM],4301868,Pulse rate,Measurement,Observable Entity,0
+mimic4wdb,PULSE (AO) [BPM],PULSE (AO) [BPM],4224504,Pulse,Measurement,Observable Entity,0
+mimic4wdb,PULSE (NBP) [BPM],PULSE (NBP) [BPM],4301868,Pulse rate,Measurement,Observable Entity,0
+mimic4wdb,PULSE (PAP) [BPM],PULSE (PAP) [BPM],4224504,Pulse,Measurement,Observable Entity,0
+mimic4wdb,QT-HR [BPM],QT-HR [BPM],3027018,Heart rate,Measurement,Clinical Observation,0
+mimiciv_hosp.admissions.admission_location,Cardiac Surgery,Cardiac Surgery,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Cardiac Vascular Intensive Care Unit (CVICU),Cardiac Vascular Intensive Care Unit (CVICU),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Cardiology,Cardiology,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Cardiology Surgery Intermediate,Cardiology Surgery Intermediate,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Coronary Care Unit (CCU),Coronary Care Unit (CCU),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Hematology/Oncology,Hematology/Oncology,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Hematology/Oncology Intermediate,Hematology/Oncology Intermediate,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Labor & Delivery,Labor & Delivery,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Med/Surg,Med/Surg,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Med/Surg/GYN,Med/Surg/GYN,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Med/Surg/Trauma,Med/Surg/Trauma,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Medical Intensive Care Unit (MICU),Medical Intensive Care Unit (MICU),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Medical/Surgical (Gynecology),Medical/Surgical (Gynecology),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Medicine/Cardiology Intermediate,Medicine/Cardiology Intermediate,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Neonatal Intensive Care Unit (NICU),Neonatal Intensive Care Unit (NICU),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Neuro Intermediate,Neuro Intermediate,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Neuro Stepdown,Neuro Stepdown,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Neuro Surgical Intensive Care Unit (Neuro SICU),Neuro Surgical Intensive Care Unit (Neuro SICU),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Neurology,Neurology,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Obstetrics (Postpartum & Antepartum),Obstetrics (Postpartum & Antepartum),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Obstetrics Antepartum,Obstetrics Antepartum,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Obstetrics Postpartum,Obstetrics Postpartum,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,PACU,PACU,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Psychiatry,Psychiatry,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Special Care Nursery (SCN),Special Care Nursery (SCN),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Surgery,Surgery,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Surgery/Pancreatic/Biliary/Bariatric,Surgery/Pancreatic/Biliary/Bariatric,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Surgery/Trauma,Surgery/Trauma,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Surgery/Vascular/Intermediate,Surgery/Vascular/Intermediate,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Surgical Intensive Care Unit (SICU),Surgical Intensive Care Unit (SICU),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Thoracic Surgery,Thoracic Surgery,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Transplant,Transplant,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Trauma SICU (TSICU),Trauma SICU (TSICU),9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_location,Vascular,Vascular,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,AMBULATORY OBSERVATION,AMBULATORY OBSERVATION,581385,Observation Room,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,DIRECT EMER.,DIRECT EMER.,9203,Emergency Room Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,DIRECT OBSERVATION,DIRECT OBSERVATION,581385,Observation Room,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,ELECTIVE,ELECTIVE,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,EU OBSERVATION,EU OBSERVATION,581385,Observation Room,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,EW EMER.,EW EMER.,9203,Emergency Room Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,OBSERVATION ADMIT,OBSERVATION ADMIT,581385,Observation Room,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,SURGICAL SAME DAY ADMISSION,SURGICAL SAME DAY ADMISSION,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.admissions.admission_type,URGENT,URGENT,9203,Emergency Room Visit,Visit,Visit,0
+mimiciv_hosp.admissions.race,ASIAN - SOUTH EAST ASIAN,ASIAN - SOUTH EAST ASIAN,8515,Asian,Race,Race,0
+mimiciv_hosp.d_labitems.itemid,51954,CDT027 (51954),4264976,Measure of stool,Measurement,Observable Entity,0
+mimiciv_hosp.drgcodes.description,Acute & Subacute Endocarditis,Acute & Subacute Endocarditis,441589,Endocarditis,Condition,Disorder,0
+mimiciv_hosp.microbiologyevents.org_itemid,90621,TICK NOT CONSISTENT WITH IXODES SPECIES,40484253,Parasitiformes,Observation,Organism,0
+mimiciv_hosp.microbiologyevents.org_itemid,90772,GRAPHIUM EUMORPHUM,4069765,Graphium,Observation,Organism,0
+mimiciv_hosp.microbiologyevents.org_itemid,90828,ZYGOSACCHAROMYCES FERMENTATI,4215367,Zygosaccharomyces,Observation,Organism,0
+mimiciv_hosp.microbiologyevents.org_itemid,90883,PERONEUTYPA SCOPARIA,37158040,Peroneutypa,Observation,Organism,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70023,CATHETER TIP-IV,4001350,Catheter tip submitted as specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70024,VIRAL CULTURE: R/O CYTOMEGALOVIRUS (70024),4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70025,CRE Screen,4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70028,Direct Antigen Test for Herpes Simplex Virus Types 1 & 2 (70028),4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70030,DIRECT ANTIGEN TEST FOR VARICELLA-ZOSTER VIRUS (70030),4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70041,VIRAL CULTURE:R/O HERPES SIMPLEX VIRUS,4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70078,"URINE,PROSTATIC MASSAGE",4120340,Prostatic massage fluid specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,70083,VARICELLA-ZOSTER CULTURE (70083),4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,90908,Cipro Resistant Screen (90908),4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,90914,Infection Control Yeast,4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,90921,POST-MORTEM VIRAL CULTURE (90921),4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,90922,MICRO PROBLEM PATIENT,4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.spec_itemid,90935,VIRAL CULTURE,4048506,Specimen,Specimen,Specimen,0
+mimiciv_hosp.microbiologyevents.test_itemid,microbiologyevents.test_itemid||90093,ANAEROBIC BOTTLE,37399248,Anaerobic culture,Measurement,Observable Entity,0
+mimiciv_hosp.microbiologyevents.test_itemid,microbiologyevents.test_itemid||90117,ANAEROBIC BOTTLE,37399248,Anaerobic culture,Measurement,Observable Entity,0
+mimiciv_hosp.microbiologyevents.test_itemid,microbiologyevents.test_itemid||90261,ANAEROBIC BOTTLE,37399248,Anaerobic culture,Measurement,Observable Entity,0
+mimiciv_hosp.prescriptions.drug,Calcimate,Calcimate,19018544,calcium,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,Calcimate,Calcimate,19095164,cholecalciferol,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,Centrum Specialist Prenatal Multivitamin w/Folic Acid tab,Centrum Specialist Prenatal Multivitamin w/Folic Acid tab,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,0
+mimiciv_hosp.prescriptions.drug,"Coenzyme Q10, B2, B6, C, D and lipoic acid","Coenzyme Q10, B2, B6, C, D and lipoic acid",1351115,ubidecarenone,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,"Coenzyme Q10, B2, B6, C, D and lipoic acid","Coenzyme Q10, B2, B6, C, D and lipoic acid",19005046,pyridoxine,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,"Coenzyme Q10, B2, B6, C, D and lipoic acid","Coenzyme Q10, B2, B6, C, D and lipoic acid",19011773,ascorbic acid,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,"Coenzyme Q10, B2, B6, C, D and lipoic acid","Coenzyme Q10, B2, B6, C, D and lipoic acid",19062817,riboflavin,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,"Coenzyme Q10, B2, B6, C, D and lipoic acid","Coenzyme Q10, B2, B6, C, D and lipoic acid",19095164,cholecalciferol,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,"Coenzyme Q10, B2, B6, C, D and lipoic acid","Coenzyme Q10, B2, B6, C, D and lipoic acid",36878693,Lipoic acid,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,Giredestrant (GDC-9545) 30 mg 0 mg PO DAILY on Days 1-28.,Giredestrant (GDC-9545) 30 mg 0 mg PO DAILY on Days 1-28.,36850094,GIREDESTRANT,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,IJ,IJ,4171047,Intravenous,Route,Qualifier Value,0
+mimiciv_hosp.prescriptions.drug,INV-Brequinar,INV-Brequinar,36852635,BREQUINAR,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,PNEUMOcoccal,PNEUMOcoccal,40213201,"pneumococcal polysaccharide vaccine, 23 valent",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.drug,Prenatal 1,Prenatal 1,4190196,Nutritional supplement,Device,Substance,0
+mimiciv_hosp.prescriptions.drug,Prenatal Gummy  (PNV62-FA-om3-dha-epa-fish oil),Prenatal Gummy  (PNV62-FA-om3-dha-epa-fish oil),4190196,Nutritional supplement,Device,Substance,0
+mimiciv_hosp.prescriptions.drug,Varicella,Varicella,40213251,varicella virus vaccine,Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.drug,Viorelle,Viorelle,1549852,desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet,Drug,Clinical Drug,0
+mimiciv_hosp.prescriptions.drug,Vitamin Cocktail,Vitamin Cocktail,36878782,Multivitamin preparation,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,calcium citrateCalcium Citrate + D with Mag,calcium citrateCalcium Citrate + D with Mag,19058572,calcium citrate,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,calcium citrateCalcium Citrate + D with Mag,calcium citrateCalcium Citrate + D with Mag,19095164,cholecalciferol,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,calcium citrateCalcium Citrate + D with Mag,calcium citrateCalcium Citrate + D with Mag,19124906,magnesium,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,710062,amitriptyline,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,785649,ketamine,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,797399,gabapentin,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,ketamine 5%- gabapentin 10%-lidocaine 6%-amitripline 2%,989878,lidocaine,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,probiotics,probiotics,980478,inulin,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.drug,probiotics,probiotics,19000811,Lacticaseibacillus rhamnosus,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,00005434462,00005434462,36878782,Multivitamin preparation,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,00173051801,00173051801,19010309,water,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,00186091542,00186091542,40142921,budesonide Dry Powder Inhaler [Pulmicort],Drug,Branded Drug Form,0
+mimiciv_hosp.prescriptions.ndc,00245008201,00245008201,21027865,Multivitamin preparation Oral Capsule,Drug,Clinical Drug Form,0
+mimiciv_hosp.prescriptions.ndc,00245009101,00245009101,21125875,Multivitamin preparation Oral Tablet,Drug,Clinical Drug Form,0
+mimiciv_hosp.prescriptions.ndc,00338001304,00338001304,19010309,water,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,00338001308,00338001308,19010309,water,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,00338040360,00338040360,35850847,Multivitamin preparation Injectable Solution,Drug,Clinical Drug Form,0
+mimiciv_hosp.prescriptions.ndc,00338917791,00338917791,19060985,glutamine,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,00482011614,00482011614,36878782,Multivitamin preparation,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,07610017120,07610017120,35200165,fish oil (containing omega-3 acids),Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,11098050701,11098050701,1319051,amyl nitrite,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,11098050701,11098050701,19069907,sodium nitrite,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,11098050701,11098050701,45775550,thiosulfate,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,17314931102,17314931102,4223723,Enteral and supplement feeds,Device,Pharma/Biol Product,0
+mimiciv_hosp.prescriptions.ndc,17317001801,17317001801,19052619,"alum, potassium",Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,19515089241,19515089241,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,19515089452,19515089452,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,24357030030,24357030030,19052619,"alum, potassium",Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,33332001101,33332001101,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,33332001201,33332001201,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,33332001301,33332001301,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,49281001350,49281001350,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,49281064015,49281064015,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,58160087346,58160087346,40213158,"influenza virus vaccine, unspecified formulation",Drug,Vaccine Group,0
+mimiciv_hosp.prescriptions.ndc,58597802206,58597802206,1504620,methimazole,Drug,Ingredient,0
+mimiciv_hosp.prescriptions.ndc,66591018442,66591018442,35850847,Multivitamin preparation Injectable Solution,Drug,Clinical Drug Form,0
+mimiciv_hosp.services.curr_service,CMED,CMED,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,CSURG,CSURG,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,DENT,Dental - for dental/jaw related admissions,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,ENT,"Ear, nose, and throat - conditions primarily affecting these areas",9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,EYE,EYE,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,GU,Genitourinary - reproductive organs/urinary system,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,GYN,Gynecological - female reproductive systems and breasts,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,MED,Medical - general service for internal medicine,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,NBB,NBB,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,NMED,NMED,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,OBS,Obstetrics - conerned with childbirth and the care of women giving birth,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,OMED,OMED,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,ORTHO,"Orthopaedic medicine - non-surgical, relating to musculoskeletal system",9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,PSURG,PSURG,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,PSYCH,"Psychiatric - mental disorders relating to mood, behaviour, cognition, or perceptions",9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,SURG,SURG,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,TRAUM,Trauma - injury or damage caused by physical harm from an external source,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,TSURG,TSURG,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_hosp.services.curr_service,VSURG,VSURG,9201,Inpatient Visit,Visit,Visit,0
+mimiciv_icu.chartevents.value,CRRT,CRRT,4178905,Hemodialysis fluid,Device,Pharma/Biol Product,0
+mimiciv_icu.d_items.label,225955,Dialysis - SCUF,37018292,Continuous renal replacement therapy,Procedure,Procedure,0
+mimiciv_icu.d_items.label,226516,Discharge Date/Time,40485383,Date of discharge,Observation,Observable Entity,0
+mimiciv_icu.d_items.label,226629,PACU EBL,4254486,Estimated blood loss,Observation,Observable Entity,0
+mimiciv_icu.d_items.label,228321,PC Date,4260905,Date,Observation,Qualifier Value,0
+mimiciv_icu.d_items.label,228331,PC Time of visit,4228929,Time of visit,Observation,Observable Entity,0
+mimiciv_icu.inputevents.itemid,220971,ESDEP (Solvent / Detergent Virus-Inactivated Plasma),4103791,Plasma product,Device,Pharma/Biol Product,0
+mimiciv_icu.inputevents.itemid,229631,Phenylephrine (200/250)_OLD_1,19091693,phenylephrine 0.8 MG/ML,Drug,Clinical Drug Comp,0

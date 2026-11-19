@@ -1,0 +1,22 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --locked
+      - run: uv run ruff check .
+      - run: uv run ruff format --check .
+      - uses: actions/cache@v4
+        with:
+          path: data
+          key: demo-2.2-cvb-${{ hashFiles('src/mimic_omop/vocab.py') }}
+      - run: uv run mimic-omop fetch-demo
+      - run: uv run mimic-omop fetch-cvb
+      - run: uv run pytest -v

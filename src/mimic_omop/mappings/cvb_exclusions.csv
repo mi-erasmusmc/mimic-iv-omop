@@ -1,0 +1,10 @@
+source_code_set,source_code,relationship_id,target_concept_id,reason
+mimiciv_icu.d_items.label,229661,Is a,606892,"'Compliance' is lung compliance (ventilator), not 'Compliance behavior to treatment' (adherence); found by DQD (docs/dqd.md, review R26)"
+mimiciv_icu.d_items.label,228299,Is a,36684829,"'Goal Richmond-RAS Scale' is the target sedation level, not an observed RASS score; mapped, it mixes goals into RASS (docs/uphill-review.md)"
+mimiciv_icu.d_items.label,227756,Is a,4052413,"'Multi Lumen Placement Confirmed by X-ray' documents a confirmation, charted repeatedly; mapped, each charting becomes a central line insertion"
+mimiciv_icu.d_items.label,227754,Is a,4060257,"'IABP Placement Confirmed by X-ray' documents a confirmation, not an insertion of an intra-aortic balloon"
+mimiciv_icu.d_items.label,227760,Is a,4052413,"'Presep Catheter Placement Confirmed by X-ray' documents a confirmation, not a central line insertion"
+mimiciv_hosp.d_labitems.itemid,50887,Is a,4014134,"'Blue Top Hold' is a specimen tube held by the lab, not a blood chemistry measurement"
+mimiciv_hosp.d_labitems.itemid,50955,Is a,4014134,"'Light Green Top Hold' is a specimen tube held by the lab, not a blood chemistry measurement"
+mimiciv_hosp.d_labitems.itemid,50979,Is a,4014134,"'Red Top Hold' is a specimen tube held by the lab, not a blood chemistry measurement"
+mimiciv_hosp.d_labitems.itemid,51839,Is a,4133843,"'Anat Path Hold' is a specimen held for anatomic pathology, not a body fluid analysis"

@@ -1,0 +1,19 @@
+result_name,component,loinc,ucum
+Weight (Lbs),value,29463-7,[lb_us]
+Weight,value,29463-7,[lb_us]
+BMI (kg/m2),value,39156-5,kg/m2
+BMI,value,39156-5,kg/m2
+Height (Inches),value,8302-2,[in_i]
+Height,value,8302-2,[in_i]
+Blood Pressure,systolic,8480-6,mm[Hg]
+Blood Pressure,diastolic,8462-4,mm[Hg]
+Blood Pressure Sitting,systolic,8480-6,mm[Hg]
+Blood Pressure Sitting,diastolic,8462-4,mm[Hg]
+Blood Pressure Lying,systolic,8480-6,mm[Hg]
+Blood Pressure Lying,diastolic,8462-4,mm[Hg]
+Blood Pressure Standing,systolic,8480-6,mm[Hg]
+Blood Pressure Standing,diastolic,8462-4,mm[Hg]
+Blood Pressure Standing (1 min),systolic,8480-6,mm[Hg]
+Blood Pressure Standing (1 min),diastolic,8462-4,mm[Hg]
+Blood Pressure Standing (3 mins),systolic,8480-6,mm[Hg]
+Blood Pressure Standing (3 mins),diastolic,8462-4,mm[Hg]
